@@ -18,6 +18,16 @@ My research focuses on understanding and improving the **airflow, thermal enviro
 
 ---
 
+## Latest News
+
+{% for post in site.posts limit:5 %}
+**{{ post.date | date: "%Y.%m.%d" }}** &nbsp; [{{ post.title }}]({{ post.url }})  
+{% endfor %}
+
+[**More News →**](/year-archive/)
+
+---
+
 ## Research
 
 ### 🌬️ Building Airflow & Natural Ventilation
@@ -57,18 +67,6 @@ Experimental and computational investigation of natural ventilation under comple
 Field and mobile measurements of urban thermal environments combined with spatial analysis and numerical modeling to understand the effects of urban form, solar exposure, vegetation, and water bodies.
 
 [**Explore all research →**](/research/)
-
----
-
-## Latest News
-
-{% for post in site.posts limit:5 %}
-**{{ post.date | date: "%Y.%m.%d" }}** &nbsp; [{{ post.title }}]({{ post.url }})  
-{% endfor %}
-
-[**More News →**](/year-archive/)
-
----
 
 ## Selected Publications
 
