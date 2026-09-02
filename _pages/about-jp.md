@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-# 蒋 子韜 / Zitao Jiang
+# 蒋(ショウ) 子韜（コトウ） / Zitao Jiang
 
 摂南大学で建築環境工学に関する教育・研究に取り組んでいます。
 
