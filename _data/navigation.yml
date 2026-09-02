@@ -19,6 +19,6 @@ main:
     url: /cv/
 
   - title: "日本語"
-  url: /jp/
+    url: /jp/
 # - title: "Guide"
 #    url: /markdown/
