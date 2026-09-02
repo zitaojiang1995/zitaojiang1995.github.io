@@ -7,6 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Building & Urban Environmental Dynamics Laboratory
+
+### Department of Architecture, Setsunan University
+
+Our laboratory investigates airflow, thermal environments, and environmental performance in buildings and cities.
+
+We combine **Computational Fluid Dynamics (CFD), wind tunnel experiments, field measurements, and data-driven modeling** to study natural ventilation, indoor airflow, urban microclimate, building energy, and environmental control.
 
 # Zitao Jiang
 
