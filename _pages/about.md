@@ -67,4 +67,43 @@ We combine **Computational Fluid Dynamics (CFD), wind tunnel experiments, field 
   <a href="/news/">View all news →</a>
 </div>
 ---
+<h2 class="section-title">Research Areas</h2>
+
+<div class="research-grid">
+
+  <a class="research-card" href="/research/#building-airflow-and-natural-ventilation">
+    <div class="research-number">01</div>
+    <h3>Building Airflow &<br>Natural Ventilation</h3>
+    <p>Natural ventilation, indoor airflow, contaminant transport, and ventilation effectiveness.</p>
+    <span>Explore →</span>
+  </a>
+
+  <a class="research-card" href="/research/#urban-microclimate-and-outdoor-thermal-environment">
+    <div class="research-number">02</div>
+    <h3>Urban Microclimate &<br>Outdoor Environment</h3>
+    <p>Urban thermal environments, waterfront cooling, solar exposure, and environmental measurement.</p>
+    <span>Explore →</span>
+  </a>
+
+  <a class="research-card" href="/research/#data-driven-building-physics">
+    <div class="research-number">03</div>
+    <h3>Data-driven<br>Building Physics</h3>
+    <p>Reduced-order modeling, POD, DeepONet, physics-informed learning, sparse sensing, and digital twins.</p>
+    <span>Explore →</span>
+  </a>
+
+  <a class="research-card" href="/research/#building-energy-and-climate-responsive-design">
+    <div class="research-number">04</div>
+    <h3>Building Energy &<br>Environmental Control</h3>
+    <p>Building energy simulation, natural ventilation potential, environmental sensing, and control.</p>
+    <span>Explore →</span>
+  </a>
+
+</div>
+
+<div class="section-more">
+  <a href="/research/">View all research →</a>
+</div>
+---
+---
 
