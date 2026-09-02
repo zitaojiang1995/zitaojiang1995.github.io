@@ -1,42 +1,85 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-Hej, this is Zitao Jiang. I am a PhD student at [Built Environment Laboratory](http://www.arch.eng.osaka-u.ac.jp/~labo4/index-j.html). [Osaka Univeristy](https://www.osaka-u.ac.jp/en) supervised by [Tomohiro Kobayashi](https://rd.iai.osaka-u.ac.jp/en/a0d52d227d6f65e8.html). My current study focuses on the airflow of natural ventilation which includes wind-induced and thermal-induced ventilation. The opitimal utilizaion of natural ventilation has a large potential to reduce the energy consumption caused by HVAC system. In the previous research, steady airflow of natural ventilation was widely studied. However, due to the time-variant outdoor wind environment, the fluctuating characteristics of natural ventilation also play a significant role in natural ventilation. In my study, I use [Wind tunnel experiment](http://www.juf.eng.osaka-u.ac.jp/wt/index.html) and LES (Large Eddy Simulation) to study the unsteady airflow in natural ventilation. 
 
+# Zitao Jiang
 
-Research Interests
-======
-My research interest ranges from indoor ventilation to urban scale wind environment and urban ventilation.
+I am an **Senior Lecturer at Setsunan University**, specializing in **Building Environmental Engineering**.
 
-Recent news 
-======
-* June, 2023: [AIVC2023](https://aivc2023conference.org/)
-* May 21, 2023: Presentation at [IAQVEC2023](https://www.iaqvec2023.org/)
+My research focuses on understanding and improving the **airflow, thermal environment, and energy performance of buildings and cities**. I combine **computational fluid dynamics (CFD), wind-tunnel and field experiments, building performance simulation, and data-driven modeling** to address environmental challenges in the built environment.
 
-Education
-======
-- Oct. 2021-Sep. 2024, Ph.D(Expected). in built environment <br>
-[Osaka University](https://www.osaka-u.ac.jp/en) Osaka, Japan
+[**Research →**](/research/) &nbsp;&nbsp; [**Publications →**](/publications/) &nbsp;&nbsp; [**CV →**](/cv/)
 
-- Aug. 2019-Jan. 2021, Master of Architectural Science(Sustainble Design)<br>
-[The University of Sydney](https://www.sydney.edu.au/) Sydney, Australia 
+---
 
-- Oct. 2014-Jun. 2019, Bachelor of Architecutre<br>
-[China University of Mining and Technology](https://global.cumt.edu.cn/) Xuzhou, China
+## Research
 
-Academic societies
-======
-- [Architectural Institute of Japan](http://www.iis.u-tokyo.ac.jp/~kkmt/profile.html)
+### 🌬️ Building Airflow & Natural Ventilation
+Natural ventilation, cross-ventilation, indoor airflow, contaminant transport, and ventilation effectiveness.
 
-- [The Society of Heating, Air-Conditioning and Sanitary Engineers of Japan](http://www.shasej.org/)
+[Learn more →](/research/#building-airflow-and-natural-ventilation)
 
-- [Japan Association for Wind Engineering](https://www.jawe.jp/en/)
+### 🌇 Urban Microclimate & Climate-responsive Design
+Urban thermal environments, waterfront cooling, pedestrian environments, solar exposure, and interactions between microclimate and buildings.
 
-Contact
-======
+[Learn more →](/research/#urban-microclimate-and-outdoor-thermal-environment)
+
+### 💻 Data-driven Building Physics
+Reduced-order modeling, POD, DeepONet, physics-informed machine learning, sparse sensing, and real-time environmental prediction.
+
+[Learn more →](/research/#data-driven-building-physics)
+
+### ⚡ Building Energy & Environmental Performance
+Natural ventilation potential, climate-responsive operation, and integration of airflow prediction with building energy simulation.
+
+[Learn more →](/research/#building-energy-and-climate-responsive-design)
+
+---
+
+## Selected Research Projects
+
+### Fast Prediction of Indoor Airflow
+
+Development of reduced-order and operator-learning approaches for rapid prediction of indoor airflow and ventilation, with the long-term goal of supporting real-time building environmental control.
+
+### Natural Ventilation
+
+Experimental and computational investigation of natural ventilation under complex wind and building conditions, from fundamental ventilation mechanisms to practical applications.
+
+### Urban Environmental Measurement
+
+Field and mobile measurements of urban thermal environments combined with spatial analysis and numerical modeling to understand the effects of urban form, solar exposure, vegetation, and water bodies.
+
+[**Explore all research →**](/research/)
+
+---
+
+## Latest News
+
+{% for post in site.posts limit:5 %}
+**{{ post.date | date: "%Y.%m.%d" }}** &nbsp; [{{ post.title }}]({{ post.url }})  
+{% endfor %}
+
+[**More News →**](/year-archive/)
+
+---
+
+## Selected Publications
+
+For a complete list of publications, please visit the [**Publications page →**](/publications/).
+
+---
+
+## Research Group
+
+Our group works on building and urban environmental engineering through a combination of **simulation, experiments, measurements, and data-driven approaches**.
+
+Students interested in CFD, building airflow, urban climate, environmental measurement, or machine learning for building physics are welcome to explore our research.
+
+[**Visit the Lab →**](/lab/)
