@@ -9,7 +9,7 @@ redirect_from:
 ---
 <div class="lab-hero">
 
-  <div class="lab-hero-label">SETSUNAN UNIVERSITY · DEPARTMENT OF ARCHITECTURE</div>
+  <div class="lab-hero-label">SETSUNAN UNIVERSITY · DEPARTMENT OF Living Environment Design</div>
 
   <h1>Building & Urban<br>Environmental Dynamics Laboratory</h1>
 
