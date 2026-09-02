@@ -36,11 +36,14 @@ China University of Mining and Technology, China | 2014–2019
 
 ## Professional Experience
 
-**[Current Position]**  
-Setsunan University, Japan | 2026–Present
+**Senior Lecturer**  
+Setsunan University, Japan | 2026.04–Present
 
 **Postdoctoral Research Fellow**  
-Wind and Fluid Engineering Research Center, Niigata Institute of Technology, Japan | 2024–2026
+Built Environmental Laboratory, The University of Osaka, Japan | 2025.11–2026.03
+
+**Postdoctoral Research Fellow**  
+Wind and Fluid Engineering Research Center, Niigata Institute of Technology, Japan | 2024.10–2025.10
 
 **Visiting Researcher**  
 University of Gävle, Sweden | 2022–2023
