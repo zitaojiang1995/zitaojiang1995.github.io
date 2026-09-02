@@ -1,3 +1,8 @@
+---
+title: "研究室"
+permalink: /jp/lab/
+author_profile: true
+---
 ## メンバー
 
 ### 教員
