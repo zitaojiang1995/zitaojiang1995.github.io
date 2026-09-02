@@ -22,3 +22,22 @@ main:
     url: /jp/
 # - title: "Guide"
 #    url: /markdown/
+
+jp:
+  - title: "プロフィール"
+    url: /jp/
+
+  - title: "研究"
+    url: /jp/research/
+
+  - title: "研究業績"
+    url: /jp/publications/
+
+  - title: "教育"
+    url: /jp/teaching/
+
+  - title: "CV"
+    url: /jp/cv/
+
+  - title: "English"
+    url: /
