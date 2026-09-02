@@ -20,12 +20,15 @@ My research focuses on understanding and improving the **airflow, thermal enviro
 
 ## Latest News
 
-{% for post in site.posts limit:5 %}
+## Latest News
+
+{% assign english_posts = site.posts | where: "lang", "en" %}
+
+{% for post in english_posts limit:5 %}
 **{{ post.date | date: "%Y.%m.%d" }}** &nbsp; [{{ post.title }}]({{ post.url }})  
 {% endfor %}
 
-[**More News →**](/year-archive/)
-
+[**More News →**](/news/)
 ---
 
 ## Research
