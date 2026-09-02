@@ -3,6 +3,9 @@ main:
   - title: "Home"
     url: /
 
+  - title: "News"
+    url: /news/
+    
   - title: "Research"
     url: /research/
 
@@ -11,9 +14,6 @@ main:
 
   - title: "Lab"
     url: /lab/
-
-  - title: "News"
-    url: /news/
 
   - title: "Teaching"
     url: /teaching/
@@ -28,6 +28,9 @@ jp:
   - title: "プロフィール"
     url: /jp/
 
+  - title: "ニュース"
+    url: /jp/news/
+  
   - title: "研究"
     url: /jp/research/
 
@@ -36,9 +39,6 @@ jp:
   
   - title: "研究室"
     url: /jp/lab/
-
-  - title: "ニュース"
-  url: /jp/news/
 
   - title: "教育"
     url: /jp/teaching/
