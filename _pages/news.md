@@ -40,4 +40,4 @@ Our research group continues to combine **CFD, wind tunnel experiments, and fiel
 ---
 ### 2026.04 | Lab
 
-New students joined our research group.
+Three new students joined our research group.
