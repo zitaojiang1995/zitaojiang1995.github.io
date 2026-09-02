@@ -40,4 +40,3 @@ Academic societies
 
 Contact
 ======
-email:jiang_zitao@arch.eng.osaka-u.ac.jp
