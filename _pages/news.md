@@ -10,20 +10,27 @@ Updates on publications, research activities, conferences, and our laboratory.
 
 ## 2026
 
-### 2026.09 | Research
+### 2026.08 | Publication
 
 #### POD-Based Reduced-Order Modeling of Indoor Temperature Fields
 
-We presented our study **"POD-Based Reduced-Order Modeling of Indoor Temperature Fields in Impinging Jet Ventilation: Parameter-Based Prediction and Sparse Sensor Reconstruction."**
+Our paper **["POD-Based Reduced-Order Modeling of Indoor Temperature Fields in Impinging Jet Ventilation: Parameter-Based Prediction and Sparse Sensor Reconstruction"](https://doi.org/10.1002/2475-8876.70109)** has been published in *Japan Architectural Review*.
 
-This study applies **Proper Orthogonal Decomposition (POD)** to reduce complex indoor temperature fields under impinging jet ventilation into a small number of representative modes. Based on the reduced-order model, we investigated two approaches:
+**Zitao Jiang, Tomohiro Kobayashi**
+*Japan Architectural Review*, Vol. 9, Issue 1, 2026
+[**Read the paper →**](https://doi.org/10.1002/2475-8876.70109)
 
-1. **Parameter-Based Prediction** — rapidly predicting the entire indoor temperature field from operating parameters such as air-conditioning conditions.
-2. **Sparse Sensor Reconstruction** — reconstructing the entire temperature field using measurements from only a limited number of temperature sensors.
+This study applies **Proper Orthogonal Decomposition (POD)** to develop reduced-order models for rapid prediction and reconstruction of indoor temperature fields under impinging jet ventilation.
 
-The results demonstrate the potential of POD-based reduced-order modeling for efficient prediction and reconstruction of indoor thermal environments without repeatedly performing computationally expensive CFD simulations.
+Two complementary approaches were investigated:
 
-In particular, reconstruction from sparse sensors provides a promising basis for future applications in **real-time indoor environmental monitoring, HVAC control, and building digital twins**.
+1. **Parameter-Based Prediction (POD-RBF)** — predicting the complete indoor temperature field from operating conditions such as inlet velocity and internal heat load.
+2. **Sparse Sensor Reconstruction (POD-LSE)** — reconstructing the complete temperature field from measurements obtained by a limited number of temperature sensors.
+
+The results demonstrate the potential of POD-based reduced-order modeling for efficient indoor environmental prediction without repeatedly performing computationally expensive CFD simulations. The sparse-sensor approach is particularly promising for future applications in **real-time environmental monitoring, HVAC control, and building digital twins**.
+
+---
+
 
 ---
 
