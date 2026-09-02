@@ -36,11 +36,12 @@ China University of Mining and Technology（中国鉱業大学）, China | 2014�
 
 ## 職歴
 
-**［現在の職位］**  
-摂南大学 | 2026–現在
+**講師 (Senior Lecturer)**  
+摂南大学 | 2026年4月–現在
 
 **博士研究員（Postdoctoral Research Fellow）**  
-新潟工科大学 風・流体工学研究センター | 2024–2026
+大阪大学　建築・都市環境工学領域 | 2025年11月–2026年3月
+新潟工科大学 風・流体工学研究センター | 2024年10月–2026年10月
 
 **客員研究員（Visiting Researcher）**  
 University of Gävle（イェヴレ大学）, Sweden | 2022–2023
