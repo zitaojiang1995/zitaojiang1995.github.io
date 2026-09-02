@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zitao JIANG"
 title_separator          : "-"
 name                     : &name "Zitao Jiang"
-description              : &description "PhD student at Osaka University"
+description              : &description "Building Environmental Engineering | CFD | Natural Ventilation | Urban Microclimate | Data-driven Modeling"
 url                      : "https://zitaojiang1995.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zitaojiang1995/zitaojiang1995.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zitao JIANG"
   avatar           : "profile.png"
-  bio              : "PhD student at Osaka University"
+  bio              : "Building Environmental Engineering | CFD | Natural Ventilation | Urban Microclimate | Data-driven Modeling"
   location         : "Osaka, Japan"
-  employer         :
+  employer         : "Setsunan University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=U0Jtdr4AAAAJ&hl=en"
-  email            : "jiang_zitao@arch.eng.osaka-u.ac.jp"
+  email            : #"jiang_zitao@arch.eng.osaka-u.ac.jp"
   researchgate     :  "https://www.researchgate.net/profile/Zitao_Jiang2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"zitaojiang1995"
+  github           : "zitaojiang1995"
   google_plus      :
   keybase          :
   instagram        :
@@ -198,10 +198,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
+      read_time: false
+      comments: false
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: ""
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Tokyo # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
