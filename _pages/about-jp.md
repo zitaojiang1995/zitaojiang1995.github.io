@@ -15,6 +15,16 @@ author_profile: true
 
 ---
 
+## 最新ニュース
+
+{% for post in site.posts limit:5 %}
+**{{ post.date | date: "%Y.%m.%d" }}** &nbsp; [{{ post.title }}]({{ post.url }})  
+{% endfor %}
+
+[**ニュース一覧 →**](/jp/news/)
+
+---
+
 ## 研究分野
 
 ### 🌬️ 建築気流・自然換気
@@ -56,16 +66,6 @@ POD、DeepONet、Physics-Informed Machine Learningなどを活用し、CFDと機
 都市空間における温熱環境を対象として、現地計測・移動計測と数値解析を組み合わせ、建物、日射、緑地、水辺空間などが都市微気候に及ぼす影響を研究しています。
 
 [**研究内容を詳しく見る →**](/jp/research/)
-
----
-
-## 最新ニュース
-
-{% for post in site.posts limit:5 %}
-**{{ post.date | date: "%Y.%m.%d" }}** &nbsp; [{{ post.title }}]({{ post.url }})  
-{% endfor %}
-
-[**ニュース一覧 →**](/jp/news/)
 
 ---
 
