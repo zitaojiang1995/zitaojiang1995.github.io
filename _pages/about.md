@@ -14,17 +14,7 @@ redirect_from:
 Our laboratory investigates airflow, thermal environments, and environmental performance in buildings and cities.
 
 We combine **Computational Fluid Dynamics (CFD), wind tunnel experiments, field measurements, and data-driven modeling** to study natural ventilation, indoor airflow, urban microclimate, building energy, and environmental control.
-
-# Zitao Jiang
-
-I am an **Senior Lecturer at Setsunan University**, specializing in **Building Environmental Engineering**.
-
-My research focuses on understanding and improving the **airflow, thermal environment, and energy performance of buildings and cities**. I combine **computational fluid dynamics (CFD), wind-tunnel and field experiments, building performance simulation, and data-driven modeling** to address environmental challenges in the built environment.
-
-[**Research →**](/research/) &nbsp;&nbsp; [**Publications →**](/publications/) &nbsp;&nbsp; [**CV →**](/cv/)
-
 ---
-
 ## Latest News
 
 {% assign english_posts = site.posts | where: "lang", "en" %}
@@ -34,6 +24,16 @@ My research focuses on understanding and improving the **airflow, thermal enviro
 {% endfor %}
 
 [**More News →**](/news/)
+---
+
+# Zitao Jiang
+
+I am an **Senior Lecturer at Setsunan University**, specializing in **Building Environmental Engineering**.
+
+My research focuses on understanding and improving the **airflow, thermal environment, and energy performance of buildings and cities**. I combine **computational fluid dynamics (CFD), wind-tunnel and field experiments, building performance simulation, and data-driven modeling** to address environmental challenges in the built environment.
+
+[**Research →**](/research/) &nbsp;&nbsp; [**Publications →**](/publications/) &nbsp;&nbsp; [**CV →**](/cv/)
+
 ---
 
 ## Research
