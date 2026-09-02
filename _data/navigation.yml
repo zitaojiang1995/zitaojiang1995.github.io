@@ -13,7 +13,7 @@ main:
     url: /lab/
 
   - title: "News"
-    url: /year-archive/
+    url: /news/
 
   - title: "Teaching"
     url: /teaching/
@@ -36,6 +36,9 @@ jp:
   
   - title: "研究室"
     url: /jp/lab/
+
+  - title: "ニュース"
+  url: /jp/news/
 
   - title: "教育"
     url: /jp/teaching/
