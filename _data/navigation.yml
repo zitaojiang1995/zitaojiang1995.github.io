@@ -3,6 +3,8 @@ main:
   - title: "Home"
     url: /
 
+  - title: "Profile"
+    url: /profile/
   - title: "News"
     url: /news/
     
@@ -18,15 +20,15 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "CV"
-    url: /cv/
-
   - title: "日本語"
     url: /jp/
 
 jp:
-  - title: "プロフィール"
+  - title: "ホーム"
     url: /jp/
+
+  - title: "プロフィール"
+    url: /jp/profile/
 
   - title: "ニュース"
     url: /jp/news/
