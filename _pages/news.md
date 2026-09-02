@@ -38,9 +38,6 @@ We propose a practical framework that classifies their integration into four for
 This work was conducted in collaboration with **Prof. Yoshihide Tominaga of Niigata Institute of Technology**, who is the first author of the paper.
 Our research group continues to combine **CFD, wind tunnel experiments, and field measurements** to investigate airflow and environmental problems in buildings and cities.
 ---
-
----
-
 ### 2026.04 | Lab
 
 New students joined our research group.
