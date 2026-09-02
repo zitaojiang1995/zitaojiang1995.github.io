@@ -1,27 +1,28 @@
 # main links links
 main:
+  - title: "Home"
+    url: /
+
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
     url: /publications/
 
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "Lab"
+    url: /lab/
 
-#  - title: "Teaching"
-#    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-  - title: "Blog Posts"
+  - title: "News"
     url: /year-archive/
-    
+
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "CV"
     url: /cv/
 
   - title: "日本語"
     url: /jp/
-# - title: "Guide"
-#    url: /markdown/
 
 jp:
   - title: "プロフィール"
@@ -36,7 +37,7 @@ jp:
   - title: "教育"
     url: /jp/teaching/
 
-  - title: "CV"
+  - title: "履歴書"
     url: /jp/cv/
 
   - title: "English"
