@@ -7,7 +7,12 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
+          {% if page.url contains '/jp/' %}
+           {% assign navlinks = site.data.navigation.jp %}
+          {% else %}
+           {% assign navlinks = site.data.navigation.main %}
+          {% endif %}
+          {% for link in navlinks %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
               {% else %}
