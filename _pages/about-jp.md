@@ -17,7 +17,9 @@ author_profile: true
 
 ## 最新ニュース
 
-{% for post in site.posts limit:5 %}
+{% assign japanese_posts = site.posts | where: "lang", "jp" %}
+
+{% for post in japanese_posts limit:5 %}
 **{{ post.date | date: "%Y.%m.%d" }}** &nbsp; [{{ post.title }}]({{ post.url }})  
 {% endfor %}
 
