@@ -9,7 +9,7 @@ redirect_from:
 ---
 # Building & Urban Environmental Dynamics Laboratory
 
-### Department of Architecture, Setsunan University
+### Department of Living Environment Deisng, Faculty of Science and Engineering, Setsunan University
 
 Our laboratory investigates airflow, thermal environments, and environmental performance in buildings and cities.
 
