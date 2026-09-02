@@ -2,100 +2,123 @@
 permalink: /jp/
 title: ""
 excerpt: ""
-author_profile: true
----
-# 建築・都市環境ダイナミクス研究室
-
-### 摂南大学 理工学部　住環境デザイン学科
-
-本研究室では、**建築・都市空間における気流・温熱環境・環境性能**に関する研究を行っています。
-
-**数値流体力学（CFD）、風洞実験、現地計測、データ駆動型モデリング**などを組み合わせ、自然換気、室内気流、都市微気候、建築エネルギー、環境制御などの課題に取り組んでいます。
-
+author_profile: false
 ---
 
-## 最新ニュース
+<div class="lab-hero">
+
+  <div class="lab-hero-label">
+    SETSUNAN UNIVERSITY · DEPARTMENT OF LIVING ENVIRONMENT DESIGN
+  </div>
+
+  <h1>建築・都市環境<br>ダイナミクス研究室</h1>
+
+  <div class="lab-hero-jp">
+    Building & Urban Environmental Dynamics Laboratory
+  </div>
+
+  <p>
+    建築・都市空間における気流・温熱環境・環境性能を対象として、
+    実験・数値解析・計測・データ駆動型手法を組み合わせた研究を行っています。
+  </p>
+
+  <div class="lab-hero-tags">
+    <span>建築気流</span>
+    <span>自然換気</span>
+    <span>都市微気候</span>
+    <span>建築エネルギー</span>
+    <span>データ駆動型モデリング</span>
+  </div>
+
+  <div class="lab-hero-buttons">
+    <a href="/jp/research/" class="btn btn--primary">研究内容を見る</a>
+    <a href="/jp/lab/" class="btn">研究室紹介</a>
+  </div>
+
+</div>
+
+
+<h2 class="section-title">最新ニュース</h2>
+
+<div class="news-list">
 
 {% assign japanese_posts = site.posts | where: "lang", "jp" %}
+{% for post in japanese_posts limit:4 %}
 
-{% for post in japanese_posts limit:5 %}
-**{{ post.date | date: "%Y.%m.%d" }}** &nbsp; [{{ post.title }}]({{ post.url }})  
+<a class="news-item" href="{{ post.url }}">
+  <span class="news-date">{{ post.date | date: "%Y.%m.%d" }}</span>
+  <span class="news-category">
+    {% if post.category == "publication" %}
+      論文
+    {% elsif post.category == "award" %}
+      受賞
+    {% elsif post.category == "conference" %}
+      学会
+    {% elsif post.category == "research" %}
+      研究
+    {% else %}
+      {{ post.category }}
+    {% endif %}
+  </span>
+  <span class="news-title">{{ post.title }}</span>
+  <span class="news-arrow">→</span>
+</a>
+
 {% endfor %}
 
-[**ニュース一覧 →**](/jp/news/)
+</div>
 
----
+<div class="section-more">
+  <a href="/jp/news/">ニュース一覧 →</a>
+</div>
 
-# 蒋(ショウ) 子韜（コトウ）
 
-摂南大学で建築環境工学に関する教育・研究に取り組んでいます。
+<h2 class="section-title">研究分野</h2>
 
-建築・都市空間における**気流・温熱環境・エネルギー性能の理解と予測**を主な研究テーマとし、**数値流体力学（CFD）、風洞実験、現地計測、建築環境シミュレーション、データ駆動型モデリング**を組み合わせた研究を行っています。
+<div class="research-grid">
 
-[**研究 →**](/jp/research/) &nbsp;&nbsp; [**研究業績 →**](/jp/publications/) &nbsp;&nbsp; [**CV →**](/jp/cv/)
+  <a class="research-card" href="/jp/research/#建築気流自然換気">
+    <div class="research-number">01</div>
+    <h3>建築気流・<br>自然換気</h3>
+    <p>
+      自然換気、通風、室内気流、換気効率、汚染物質輸送など、
+      建築空間における空気の流れに関する研究を行っています。
+    </p>
+    <span>詳しく見る →</span>
+  </a>
 
----
+  <a class="research-card" href="/jp/research/#都市微気候屋外温熱環境">
+    <div class="research-number">02</div>
+    <h3>都市微気候・<br>屋外環境</h3>
+    <p>
+      都市気流、屋外温熱環境、水辺空間、日射・日陰、
+      環境計測などを通して都市微気候を研究しています。
+    </p>
+    <span>詳しく見る →</span>
+  </a>
 
-## 研究分野
+  <a class="research-card" href="/jp/research/#データ駆動型建築環境予測">
+    <div class="research-number">03</div>
+    <h3>データ駆動型<br>建築環境予測</h3>
+    <p>
+      POD、DeepONet、Physics-Informed Machine Learning、
+      少数センサーによる環境場推定などの研究に取り組んでいます。
+    </p>
+    <span>詳しく見る →</span>
+  </a>
 
-### 🌬️ 建築気流・自然換気
+  <a class="research-card" href="/jp/research/#建築エネルギー環境制御">
+    <div class="research-number">04</div>
+    <h3>建築エネルギー・<br>環境制御</h3>
+    <p>
+      建築エネルギーシミュレーション、自然換気ポテンシャル、
+      環境センシング、リアルタイム制御などを研究しています。
+    </p>
+    <span>詳しく見る →</span>
+  </a>
 
-自然換気・通風、室内気流、汚染物質輸送、換気効率などを対象に、CFD解析および風洞実験を用いた研究を行っています。
+</div>
 
-[詳しく見る →](/jp/research/#建築気流自然換気)
-
-### 🌇 都市微気候・気候適応型建築
-
-都市の温熱環境、河川・水辺空間の冷却効果、歩行者温熱環境、日射・都市形態と建築環境の関係について研究しています。
-
-[詳しく見る →](/jp/research/#都市微気候屋外温熱環境)
-
-### 💻 データ駆動型建築環境予測
-
-POD、DeepONet、Physics-Informed Machine Learningなどを活用し、CFDと機械学習を融合した高速な気流・温熱環境予測手法の開発に取り組んでいます。
-
-[詳しく見る →](/jp/research/#データ駆動型建築環境予測)
-
-### ⚡ 建築エネルギー・環境性能
-
-自然換気ポテンシャル、気候適応型建築運用、都市微気候と建築エネルギー性能の関係など、気流解析から建築環境・エネルギー性能評価への研究展開を進めています。
-
----
-
-## 主な研究プロジェクト
-
-### 室内気流の高速予測
-
-低次元モデルやDeepONetなどを用いて、様々な境界条件に対する室内気流・換気性能を高速に予測する手法を開発しています。将来的には、限られたセンサー情報を利用したリアルタイム環境予測・制御への応用を目指しています。
-
-### 自然換気・通風
-
-建物形状、周辺環境、風向、開口条件などが自然換気性能に及ぼす影響を、風洞実験とCFD解析の両面から研究しています。
-
-### 都市環境の計測・予測
-
-都市空間における温熱環境を対象として、現地計測・移動計測と数値解析を組み合わせ、建物、日射、緑地、水辺空間などが都市微気候に及ぼす影響を研究しています。
-
-[**研究内容を詳しく見る →**](/jp/research/)
-
----
-
-## 研究業績
-
-論文・学会発表等の研究業績については、研究業績ページをご覧ください。
-
-[**研究業績一覧 →**](/jp/publications/)
-
----
-
-## 研究室
-
-建築・都市環境を対象として、**数値解析・実験・現地計測・データ駆動型手法**を組み合わせた研究に取り組んでいます。
-
-CFD、自然換気、都市環境、環境計測、建築環境へのAI・機械学習の応用などに興味のある学生を歓迎します。
-
-[**研究室について →**](/jp/lab/)
-
----
-
-[English →](/)
+<div class="section-more">
+  <a href="/jp/research/">研究内容の詳細 →</a>
+</div>
