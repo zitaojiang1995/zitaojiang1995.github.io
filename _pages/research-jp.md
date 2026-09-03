@@ -53,7 +53,6 @@ CFD解析と風洞実験を組み合わせ、換気メカニズムの理解と�
 - Proper Orthogonal Decomposition（POD）
 - 低次元モデル
 - DeepONet
-- Physics-Informed Machine Learning
 - 少数センサーによる流れ場推定
 - 建築環境制御・デジタルツイン
 
