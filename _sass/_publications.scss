@@ -1,0 +1,131 @@
+.pub-intro {
+  margin-bottom: 3rem;
+  max-width: 760px;
+}
+
+.pub-profile-links {
+  margin-top: 1.2rem;
+}
+
+.pub-profile-links a {
+  display: inline-block;
+  margin-right: 0.6rem;
+  padding: 0.4rem 0.8rem;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+  color: #333;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+
+.pub-profile-links a:hover {
+  background: #f3f4f4;
+}
+
+.pub-year {
+  margin-top: 2.8rem;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  color: #58707a;
+}
+
+.publication-card {
+  position: relative;
+  padding: 1.5rem 1.7rem;
+  margin-bottom: 1rem;
+  border: 1px solid #e2e2e2;
+  border-radius: 5px;
+  background: #fff;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.publication-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 18px rgba(0, 0, 0, 0.06);
+}
+
+.pub-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.7rem;
+}
+
+.pub-type {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: #2f5d62;
+}
+
+.pub-year-badge {
+  font-size: 0.7rem;
+  color: #888;
+}
+
+.pub-title {
+  margin: 0 0 0.6rem !important;
+  font-size: 1.08rem !important;
+  line-height: 1.45;
+  color: #222 !important;
+}
+
+.pub-authors {
+  margin: 0 0 0.25rem;
+  font-size: 0.88rem;
+  color: #555;
+}
+
+.pub-journal {
+  margin: 0;
+  font-size: 0.86rem;
+  color: #666;
+}
+
+.pub-links {
+  margin-top: 0.8rem;
+}
+
+.pub-links a {
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 0.28rem 0.65rem;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  color: #333 !important;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+
+.pub-links a:hover {
+  background: #f2f4f4;
+}
+
+.pub-type-review {
+  color: #765b32;
+}
+
+.pub-type-conference {
+  color: #53677d;
+}
+
+.conference-card {
+  border-left: 3px solid #9baab5;
+}
+
+.pub-section-intro {
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 700px) {
+  .publication-card {
+    padding: 1.2rem;
+  }
+
+  .pub-title {
+    font-size: 1rem !important;
+  }
+}
