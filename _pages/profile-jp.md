@@ -16,7 +16,6 @@ author_profile: true
 - 都市微気候・屋外温熱環境
 - 建築エネルギー・環境制御
 - データ駆動型建築環境予測
-- Physics-Informed Machine Learning
 
 
 ## 経歴
