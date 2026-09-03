@@ -439,6 +439,11 @@ author_profile: true
   <p class="pub-journal">
     AIVC 2023
   </p>
+
+  <div class="pub-links">
+    <a href="https://www.aivc.org/resource/wind-tunnel-experiment-wind-induced-single-sided-ventilation-under-generic-sheltered-urban"
+       target="_blank" rel="noopener">DOI ↗</a>
+  </div>
 </div>
 
 
