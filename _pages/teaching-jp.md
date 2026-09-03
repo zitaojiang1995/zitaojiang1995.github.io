@@ -1,29 +1,12 @@
 ---
-title: "Teaching"
+title: "教育"
 permalink: jp/teaching/
 author_profile: true
 ---
+# 授業
 
-# Teaching
-
-## Courses
-
-### Building Environmental Engineering
-
-Topics include heat transfer, thermal environment, airflow, ventilation, indoor environmental quality, and building energy.
-
-### Building Services
-
-Fundamentals of building mechanical and electrical systems, lighting, HVAC, and environmental control.
-
-### Environmental Engineering Exercises
-
-Practical exercises related to thermal comfort, airflow, lighting environments, and environmental measurements.
-
----
-
-## Teaching Philosophy
-
-My teaching aims to connect fundamental principles of building physics with real buildings and environmental problems.
-
-Students are encouraged to understand not only **how to calculate an answer**, but also **why a physical phenomenon occurs and how engineering knowledge can be applied to improve the built environment**.
+## 2026年4月 - 現在　「卒業研究」  (摂南大学) 
+## 2026年4月 - 現在　「科学技術教養」  (摂南大学) 
+## 2026年4月 - 現在　「設計演習Ⅰ」  (摂南大学) 
+## 2026年4月 - 現在　「住環境デザイン概論」  (摂南大学) 
+## 2026年4月 - 現在　「環境工学演習」  (摂南大学) 
