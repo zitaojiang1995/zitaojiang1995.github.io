@@ -42,15 +42,15 @@ author_profile: true
 受入教員: Mats Sandberg 教授
 
 2024.10 - 2025.10<br>
-新潟工科大学 [風・流体工学研究センター](https://www.niit.ac.jp/windcenter/)　特任研究員<br>
+[新潟工科大学](https://www.niit.ac.jp/) [風・流体工学研究センター](https://www.niit.ac.jp/windcenter/)　特任研究員<br>
 受入教員: [富永 禎秀 教授](https://www.ytomi.net/tomilab/)
 
 2025.11 - 2026.3 <br>
-大阪大学 [建築・都市環境デザイン学領域](https://www-arch.eng.osaka-u.ac.jp/~labo4/index-j.html)<br>
+[大阪大学](https://www.osaka-u.ac.jp/ja) [建築・都市環境デザイン学領域](https://www-arch.eng.osaka-u.ac.jp/~labo4/index-j.html)<br>
 受入教員: 小林 知広 教授
 
 **2026.04 - 現在**<br>
-**[摂南大学](https://www.setsunan.ac.jp/) 理工学部　住環境デザイン学科　講師**
+**[摂南大学](https://www.setsunan.ac.jp/) [理工学部](https://www.setsunan.ac.jp/faculty/science/)　[住環境デザイン学科](https://www.setsunan.ac.jp/faculty/science/living-environment/)　講師**
 
 
 ## 研究の展開
