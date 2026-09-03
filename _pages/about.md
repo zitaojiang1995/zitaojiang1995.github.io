@@ -113,3 +113,49 @@ redirect_from:
 <div class="section-more">
   <a href="/research/">View all research →</a>
 </div>
+
+<h2 class="section-title">Collaboration</h2>
+
+<div class="collaboration-section">
+
+  <div class="collaboration-main">
+    <h3>We welcome research collaborations</h3>
+
+    <p>
+      We welcome collaborations with companies, universities,
+      research institutes, and public organizations.
+      Our laboratory addresses practical challenges in building and urban
+      environments by combining numerical simulation, experiments,
+      field measurements, and data-driven approaches.
+    </p>
+
+    <p>
+      We are also particularly interested in research on
+      <strong>buildings and urban environments in Southeast Asia</strong>,
+      including climate-responsive design, natural ventilation,
+      urban microclimate, and building energy performance in hot and humid climates.
+      We welcome opportunities for international collaboration,
+      comparative studies, and joint field investigations in the region.
+    </p>
+  </div>
+
+  <div class="collaboration-methods">
+    <span>CFD Simulation</span>
+    <span>Wind Tunnel Experiments</span>
+    <span>Field Measurements</span>
+    <span>Environmental Sensing</span>
+    <span>Data-driven Modeling</span>
+  </div>
+
+  <p class="collaboration-examples">
+    Natural Ventilation & Building Airflow / Urban Microclimate /
+    Building Energy / Environmental Sensing & Prediction /
+    Wind & Environmental Engineering
+  </p>
+
+  <div class="collaboration-links">
+    <a href="/research/" class="btn btn--primary">Explore Our Research</a>
+    <a href="/profile/#contact" class="btn">Contact</a>
+  </div>
+
+</div>
