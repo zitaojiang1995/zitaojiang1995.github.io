@@ -166,3 +166,15 @@
 .page__content li {
   line-height: 1.8;
 }
+
+.map-container {
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+  width: 100%;
+}
+.map-container iframe {
+  display: block;
+  width: 100%;
+  border: 0;
+  border-radius: 8px;
+}
