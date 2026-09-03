@@ -28,7 +28,6 @@ author_profile: true
 <div class="publication-card">
   <div class="pub-meta">
     <span class="pub-type">JOURNAL ARTICLE</span>
-    <span class="pub-year-badge">2026</span>
   </div>
 
   <h3 class="pub-title">
@@ -54,7 +53,6 @@ author_profile: true
 <div class="publication-card">
   <div class="pub-meta">
     <span class="pub-type pub-type-review">REVIEW ARTICLE</span>
-    <span class="pub-year-badge">2026</span>
   </div>
 
   <h3 class="pub-title">
@@ -83,7 +81,6 @@ author_profile: true
 <div class="publication-card">
   <div class="pub-meta">
     <span class="pub-type">JOURNAL ARTICLE</span>
-    <span class="pub-year-badge">2025</span>
   </div>
 
   <h3 class="pub-title">
@@ -104,7 +101,6 @@ author_profile: true
 <div class="publication-card">
   <div class="pub-meta">
     <span class="pub-type">JOURNAL ARTICLE</span>
-    <span class="pub-year-badge">2025</span>
   </div>
 
   <h3 class="pub-title">
@@ -125,7 +121,6 @@ author_profile: true
 <div class="publication-card">
   <div class="pub-meta">
     <span class="pub-type">JOURNAL ARTICLE</span>
-    <span class="pub-year-badge">2025</span>
   </div>
 
   <h3 class="pub-title">
@@ -149,7 +144,6 @@ author_profile: true
 <div class="publication-card">
   <div class="pub-meta">
     <span class="pub-type">JOURNAL ARTICLE</span>
-    <span class="pub-year-badge">2024</span>
   </div>
 
   <h3 class="pub-title">
@@ -172,7 +166,6 @@ author_profile: true
 <div class="publication-card">
   <div class="pub-meta">
     <span class="pub-type">JOURNAL ARTICLE</span>
-    <span class="pub-year-badge">2024</span>
   </div>
 
   <h3 class="pub-title">
@@ -199,7 +192,6 @@ author_profile: true
 <div class="publication-card">
   <div class="pub-meta">
     <span class="pub-type">JOURNAL ARTICLE</span>
-    <span class="pub-year-badge">2024</span>
   </div>
 
   <h3 class="pub-title">
@@ -223,7 +215,6 @@ author_profile: true
 <div class="publication-card">
   <div class="pub-meta">
     <span class="pub-type">JOURNAL ARTICLE</span>
-    <span class="pub-year-badge">2023</span>
   </div>
 
   <h3 class="pub-title">
@@ -245,7 +236,6 @@ author_profile: true
 <div class="publication-card">
   <div class="pub-meta">
     <span class="pub-type pub-type-review">REVIEW ARTICLE</span>
-    <span class="pub-year-badge">2023</span>
   </div>
 
   <h3 class="pub-title">
@@ -271,7 +261,6 @@ author_profile: true
 <div class="publication-card">
   <div class="pub-meta">
     <span class="pub-type">JOURNAL ARTICLE</span>
-    <span class="pub-year-badge">2023</span>
   </div>
 
   <h3 class="pub-title">
@@ -295,7 +284,6 @@ author_profile: true
 <div class="publication-card">
   <div class="pub-meta">
     <span class="pub-type">JOURNAL ARTICLE</span>
-    <span class="pub-year-badge">2022</span>
   </div>
 
   <h3 class="pub-title">
@@ -327,7 +315,6 @@ author_profile: true
 <div class="publication-card conference-card">
   <div class="pub-meta">
     <span class="pub-type pub-type-conference">INTERNATIONAL CONFERENCE</span>
-    <span class="pub-year-badge">2025</span>
   </div>
 
   <h3 class="pub-title">
@@ -349,7 +336,6 @@ author_profile: true
 <div class="publication-card conference-card">
   <div class="pub-meta">
     <span class="pub-type pub-type-conference">INTERNATIONAL CONFERENCE</span>
-    <span class="pub-year-badge">2024</span>
   </div>
 
   <h3 class="pub-title">
@@ -370,7 +356,6 @@ author_profile: true
 <div class="publication-card conference-card">
   <div class="pub-meta">
     <span class="pub-type pub-type-conference">INTERNATIONAL CONFERENCE</span>
-    <span class="pub-year-badge">2024</span>
   </div>
 
   <h3 class="pub-title">
@@ -394,7 +379,6 @@ author_profile: true
 <div class="publication-card conference-card">
   <div class="pub-meta">
     <span class="pub-type pub-type-conference">INTERNATIONAL CONFERENCE</span>
-    <span class="pub-year-badge">2023</span>
   </div>
 
   <h3 class="pub-title">
@@ -416,7 +400,6 @@ author_profile: true
 <div class="publication-card conference-card">
   <div class="pub-meta">
     <span class="pub-type pub-type-conference">INTERNATIONAL CONFERENCE</span>
-    <span class="pub-year-badge">2023</span>
   </div>
 
   <h3 class="pub-title">
