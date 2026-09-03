@@ -20,9 +20,9 @@ author_profile: true
 
 
 ## 経歴
-
+中国・浙江省・湖州市・長興県生まれ
 ### 学歴
-
+2024.06 浙江省長興中学　卒業
 2014.10 - 2019.06　中国鉱業大学 建築学科　卒業
 
 2017.08 - 2017.12　The University of Western Australia　交換留学
@@ -37,15 +37,20 @@ author_profile: true
 
 ### 職歴
 
-2022.12 - 2023.02　University of Gävle　Visiting Researcher
+2022.12 - 2023.02 / 2023.09 - 2023.10  
+[University of Gävle](https://www.hig.se/engelska/university-of-gavle)　Visiting Researcher
+受入教員: Mats Sandberg 教授
 
-2023.09 - 2023.10　University of Gävle　Visiting Researcher
+2024.10 - 2025.10
+新潟工科大学 [風・流体工学研究センター](https://www.niit.ac.jp/windcenter/)　特任研究員
+受入教員: [富永 禎秀 教授](https://www.ytomi.net/tomilab/)
 
-2024.10 - 2025.10　新潟工科大学 [風・流体工学研究センター](https://www.niit.ac.jp/windcenter/)　博士研究員
+2025.11 - 2026.3 
+大阪大学 [建築・都市環境デザイン学領域](https://www-arch.eng.osaka-u.ac.jp/~labo4/index-j.html)
+受入教員: 小林 知広 教授
 
-2025.11 - 2026.3 大阪大学 [建築・都市環境デザイン学領域](https://www-arch.eng.osaka-u.ac.jp/~labo4/index-j.html)
-
-**2026.04 - 現在　[摂南大学](https://www.setsunan.ac.jp/) 理工学部　住環境デザイン学科　講師**
+**2026.04 - 現在　
+[摂南大学](https://www.setsunan.ac.jp/) 理工学部　住環境デザイン学科　講師**
 
 
 ## 研究の展開
