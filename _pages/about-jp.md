@@ -124,3 +124,38 @@ author_profile: false
 <div class="section-more">
   <a href="/jp/research/">研究内容の詳細 →</a>
 </div>
+
+<h2 class="section-title">共同研究</h2>
+
+<div class="collaboration-section">
+
+  <div class="collaboration-main">
+    <h3>建築・都市環境に関する共同研究を歓迎しています</h3>
+
+    <p>
+      本研究室では、企業、大学・研究機関、自治体等との共同研究を歓迎しています。
+      建築・都市環境における実践的な課題に対して、
+      数値解析、実験、現地計測、データ駆動型手法を組み合わせた研究に取り組んでいます。
+    </p>
+  </div>
+
+  <div class="collaboration-methods">
+    <span>CFD解析</span>
+    <span>風洞実験</span>
+    <span>現地計測</span>
+    <span>環境センシング</span>
+    <span>データ駆動型モデリング</span>
+  </div>
+
+  <p class="collaboration-examples">
+    自然換気・建築気流 ／ 都市微気候・屋外環境 ／
+    建築エネルギー ／ 環境センシング・予測 ／
+    風工学・環境流体
+  </p>
+
+  <div class="collaboration-links">
+    <a href="/jp/research/" class="btn btn--primary">研究内容を見る</a>
+    <a href="/jp/profile/#連絡先" class="btn">お問い合わせ</a>
+  </div>
+
+</div>
