@@ -45,7 +45,7 @@ author_profile: true
 受入教員: [富永 禎秀 教授](https://www.ytomi.net/tomilab/)
 
 2025.11 - 2026.3 <br>
-[大阪大学](https://www.osaka-u.ac.jp/ja) [建築・都市環境デザイン学領域](https://www-arch.eng.osaka-u.ac.jp/~labo4/index-j.html)<br>
+[大阪大学](https://www.osaka-u.ac.jp/ja) [建築・都市環境デザイン学領域](https://www-arch.eng.osaka-u.ac.jp/~labo4/index-j.html) 特任研究員<br>
 受入教員: 小林 知広 教授
 
 **2026.04 - 現在**<br>
