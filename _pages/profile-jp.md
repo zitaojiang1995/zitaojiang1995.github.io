@@ -4,9 +4,7 @@ permalink: /jp/profile/
 author_profile: true
 ---
 
-# プロフィール
-
-建築・都市環境工学を専門とし、自然換気、CFD、風洞実験、都市微気候、建築エネルギー、データ駆動型モデリングなどに関する研究を行っています。
+蒋子韜は建築・都市環境工学を専門とし、自然換気、CFD、風洞実験、都市微気候、建築エネルギー、データ駆動型モデリングなどに関する研究を行っています。
 
 
 ## 専門分野
@@ -43,9 +41,11 @@ author_profile: true
 
 2023.09 - 2023.10　University of Gävle　Visiting Researcher
 
-2024.10 - 2026.xx　新潟工科大学 風・流体工学研究センター　博士研究員
+2024.10 - 2025.10　新潟工科大学 [風・流体工学研究センター](https://www.niit.ac.jp/windcenter/)　博士研究員
 
-**2026.xx - 現在　摂南大学 ［正式な所属・職位］**
+2025.11 - 2026.3 大阪大学 [建築・都市環境デザイン学領域](https://www-arch.eng.osaka-u.ac.jp/~labo4/index-j.html)
+
+**2026.04 - 現在　[摂南大学](https://www.setsunan.ac.jp/) 理工学部　住環境デザイン学科　講師**
 
 
 ## 研究の展開
@@ -84,9 +84,9 @@ POD、DeepONet、少数センサーによる空間分布の再構築、Physics-I
 
 ## 所属学会
 
-- 日本建築学会（AIJ）
-- 日本風工学会（JAWE）
-- 空気調和・衛生工学会（SHASE）
+- [日本建築学会（AIJ）](https://www.aij.or.jp/)
+- [日本風工学会（JAWE）](https://www.jawe.jp/ja/)
+- [空気調和・衛生工学会（SHASE）](https://www.shasej.org/)
 
 
 ## 学術活動
