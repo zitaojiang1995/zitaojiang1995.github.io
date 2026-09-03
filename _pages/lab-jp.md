@@ -7,7 +7,8 @@ author_profile: true
 
 ### 教員
 
-[**蒋 子韜（しょう　ことう）** ](/jp/profile/)｜ 講師/Senior Lecturer, Ph.D.
+[**蒋 子韜／JIANG Zitao**](/jp/profile/) ｜ 講師／Lecturer, Ph.D.  
+摂南大学 理工学部 住環境デザイン学科
 
 ### 学部生
 
