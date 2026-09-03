@@ -460,4 +460,9 @@ author_profile: true
   <p class="pub-journal">
     IAQVEC 2023, <em>E3S Web of Conferences</em>, 396, 02012
   </p>
+
+ <div class="pub-links">
+    <a href="https://doi.org/10.1051/e3sconf/202339602012"
+       target="_blank" rel="noopener">DOI ↗</a>
+  </div>
 </div>
