@@ -390,6 +390,11 @@ author_profile: true
   <p class="pub-journal">
     ASim Conference 2024
   </p>
+
+   <div class="pub-links">
+    <a href="https://doi.org/10.69357/asim2024.1149"
+       target="_blank" rel="noopener">DOI ↗</a>
+  </div>
 </div>
 
 
@@ -434,6 +439,11 @@ author_profile: true
   <p class="pub-journal">
     AIVC 2023
   </p>
+
+  <div class="pub-links">
+    <a href="https://www.aivc.org/resource/wind-tunnel-experiment-wind-induced-single-sided-ventilation-under-generic-sheltered-urban"
+       target="_blank" rel="noopener">DOI ↗</a>
+  </div>
 </div>
 
 
@@ -455,4 +465,9 @@ author_profile: true
   <p class="pub-journal">
     IAQVEC 2023, <em>E3S Web of Conferences</em>, 396, 02012
   </p>
+
+  <div class="pub-links">
+    <a href="https://doi.org/10.1051/e3sconf/202339602012"
+       target="_blank" rel="noopener">DOI ↗</a>
+  </div>
 </div>
