@@ -51,6 +51,10 @@ author_profile: true
 **2026.04 - 現在**<br>
 **[摂南大学](https://www.setsunan.ac.jp/) [理工学部](https://www.setsunan.ac.jp/faculty/science/)　[住環境デザイン学科](https://www.setsunan.ac.jp/faculty/science/living-environment/)　講師**
 
+### 兼任
+
+2024.10 - 2025.10 / 2026.04 - 現在<br>
+大阪大学　招へい教員
 
 ## 研究の展開
 
