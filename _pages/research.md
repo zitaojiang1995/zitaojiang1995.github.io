@@ -4,93 +4,243 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on understanding, predicting, and improving the **airflow and thermal environment in buildings and cities**. I combine computational modeling, experiments, field measurements, and data-driven methods to address problems in building environmental engineering.
+<div class="research-intro">
+  <p>
+    My research explores <strong>airflow, heat, and environmental transport in buildings and cities</strong>,
+    with the goal of creating healthier, more comfortable, and energy-efficient built environments.
+  </p>
 
-## Building Airflow and Natural Ventilation
+  <p>
+    I combine <strong>computational fluid dynamics (CFD), wind-tunnel experiments, field measurements,
+    environmental sensing, and data-driven modeling</strong> to understand environmental processes across scales,
+    from airflow through a building opening to thermal environments at the urban scale.
+  </p>
 
-I investigate airflow and natural ventilation in buildings, with particular interest in the interactions among building geometry, external wind conditions, opening configurations, and indoor airflow.
+  <p>
+    A central direction of my research is to connect <strong>physical understanding with prediction and application</strong>:
+    understanding environmental phenomena through experiments and simulation, developing fast predictive models,
+    and ultimately applying them to building design, environmental control, and climate-responsive cities.
+  </p>
+</div>
 
-My research uses **CFD simulations and wind-tunnel experiments** to understand ventilation mechanisms and develop practical prediction and design methods.
 
-**Current topics include:**
+<div class="research-section" id="building-airflow-and-natural-ventilation">
 
-- Natural and cross ventilation
-- Wind pressure and ventilation rate prediction
-- Ventilation under complex surrounding environments
+<div class="research-section-number">01</div>
+
+## Building Airflow & Natural Ventilation
+
+Natural ventilation can reduce building energy use and improve indoor environmental quality, but its performance is strongly affected by fluctuating wind conditions, surrounding buildings, opening configurations, and indoor geometry.
+
+My research investigates the **physical mechanisms governing wind- and buoyancy-driven ventilation**, from airflow through openings to whole-building ventilation and contaminant transport.
+
+I combine **wind-tunnel experiments, tracer-gas measurements, and CFD simulations** to characterize ventilation processes and develop practical prediction methods.
+
+### Current research
+
+- Wind- and buoyancy-driven natural ventilation
+- Cross and single-sided ventilation
+- Wind pressure and ventilation-rate prediction
+- Effects of surrounding buildings and urban configurations
 - Local ventilation effectiveness and contaminant transport
-- Natural ventilation of vehicles and semi-enclosed spaces
+- Ventilation of vehicles and semi-enclosed spaces
 
----
+<div class="research-method-tags">
+  <span>CFD</span>
+  <span>Wind Tunnel</span>
+  <span>Tracer Gas</span>
+  <span>Ventilation Measurement</span>
+</div>
 
-## Urban Microclimate and Outdoor Thermal Environment
+</div>
 
-I am interested in how urban morphology, water bodies, vegetation, solar radiation, and airflow affect the outdoor thermal environment.
 
-Rather than considering individual environmental factors separately, my long-term goal is to understand how urban design can improve both **outdoor thermal comfort and building performance**.
+<div class="research-section" id="urban-microclimate-and-outdoor-thermal-environment">
 
-**Current topics include:**
+<div class="research-section-number">02</div>
 
-- Urban thermal environment
+## Urban Microclimate & Outdoor Environment
+
+Cities create highly heterogeneous thermal environments through interactions among **urban morphology, solar radiation, vegetation, water bodies, surface materials, and airflow**.
+
+Understanding these interactions is increasingly important for climate adaptation and the design of comfortable and resilient outdoor spaces.
+
+My research combines **field measurements, mobile environmental sensing, urban-scale modeling, and spatial analysis** to investigate how urban form influences pedestrian-scale environmental conditions.
+
+### Current and emerging research
+
+- Urban thermal environments and pedestrian thermal comfort
 - River and waterfront cooling effects
-- Pedestrian thermal comfort
-- Mobile environmental measurements
+- Mobile measurement of thermal environment and air quality
 - Urban morphology and solar exposure
+- Microclimate–building interactions
+- Climate-responsive urban design
 
----
+<div class="research-highlight">
+  <strong>Southeast Asia</strong><br>
+  I am particularly interested in extending this research to
+  <strong>cities and buildings in Southeast Asia</strong>, where hot and humid climates,
+  rapid urbanization, and intensive cooling demand create important opportunities
+  for climate-responsive architecture and urban environmental design.
+</div>
+
+<div class="research-method-tags">
+  <span>Field Measurement</span>
+  <span>Mobile Sensing</span>
+  <span>Urban Analysis</span>
+  <span>Microclimate</span>
+</div>
+
+</div>
+
+
+<div class="research-section" id="data-driven-building-physics">
+
+<div class="research-section-number">03</div>
 
 ## Data-driven Building Physics
 
-High-fidelity CFD provides detailed airflow information but is computationally expensive. I therefore develop reduced-order and machine-learning approaches for rapid prediction of building environmental conditions.
+Detailed CFD simulations provide rich information about airflow and thermal environments, but they remain computationally expensive for many design, optimization, and real-time control applications.
 
-My research explores the integration of **physical models, CFD databases, sparse measurements, and machine learning** toward real-time prediction and control.
+My research develops **reduced-order and machine-learning models that retain physical information while enabling rapid prediction**.
 
-**Methods include:**
+By combining CFD databases, physical constraints, and sparse sensor measurements, I aim to bridge the gap between high-fidelity environmental simulation and real-time building applications.
+
+### Research directions
 
 - Proper Orthogonal Decomposition (POD)
 - Reduced-order modeling
-- DeepONet
+- Deep Operator Networks (DeepONet)
 - Physics-informed machine learning
-- Sparse-sensor flow-field reconstruction
-- Digital twins for building environmental control
+- Sparse-sensor reconstruction of environmental fields
+- Surrogate models for rapid environmental prediction
+- Digital twins and real-time building environmental control
 
----
+<div class="research-flow">
 
-## Building Energy and Climate-responsive Design
+<div class="research-flow-item">
+<strong>High-fidelity data</strong><br>
+CFD / Experiments / Measurements
+</div>
 
-I am expanding my research from airflow prediction toward the relationship between **ventilation, microclimate, and building energy performance**.
+<div class="research-flow-arrow">→</div>
 
-Topics of interest include natural ventilation potential, climate-responsive building operation, and coupling airflow prediction with building energy simulation.
+<div class="research-flow-item">
+<strong>Reduced / Learned Model</strong><br>
+POD / DeepONet / Physics-informed ML
+</div>
 
----
+<div class="research-flow-arrow">→</div>
 
-## Experimental and Measurement Methods
+<div class="research-flow-item">
+<strong>Application</strong><br>
+Fast Prediction / Design / Control
+</div>
 
-Experimental measurement is an important component of my research. I develop and apply measurement systems at different spatial scales, from wind-tunnel models to buildings and urban environments.
+</div>
 
-Methods include:
+<div class="research-method-tags">
+  <span>POD</span>
+  <span>DeepONet</span>
+  <span>Physics-informed ML</span>
+  <span>Digital Twin</span>
+</div>
 
-- Wind-tunnel experiments
-- Tracer-gas measurements
-- Field measurements
-- Mobile environmental sensing
-- UAV-based environmental measurements
+</div>
+
+
+<div class="research-section" id="building-energy-and-climate-responsive-design">
+
+<div class="research-section-number">04</div>
+
+## Building Energy & Climate-responsive Design
+
+Building energy performance is closely connected to the surrounding climate, urban microclimate, ventilation strategy, and environmental control.
+
+As an emerging direction of my research, I am extending airflow and microclimate studies toward **whole-building environmental and energy performance**.
+
+### Research interests
+
+- Natural ventilation potential and energy-saving effects
+- Climate-responsive building operation
+- Building energy simulation
+- Microclimate–building energy interactions
+- Coupling airflow prediction with building performance simulation
+- Environmental sensing and building control
+
+<div class="research-method-tags">
+  <span>Building Energy Simulation</span>
+  <span>Natural Ventilation</span>
+  <span>Climate Analysis</span>
+  <span>Environmental Control</span>
+</div>
+
+</div>
+
+
+<div class="research-approach-section">
+
+## Research Approach
+
+Environmental problems in buildings and cities often cannot be understood through a single method. My research therefore combines numerical, experimental, measurement-based, and data-driven approaches across different spatial scales.
+
+<div class="research-method-grid">
+
+<div class="research-method">
+<div class="research-method-number">01</div>
+<h3>Computational Modeling</h3>
+<p>
+CFD, RANS/LES, building performance simulation,
+and urban environmental modeling.
+</p>
+</div>
+
+<div class="research-method">
+<div class="research-method-number">02</div>
+<h3>Experimental Methods</h3>
+<p>
+Wind-tunnel experiments, tracer-gas techniques,
+and airflow measurements.
+</p>
+</div>
+
+<div class="research-method">
+<div class="research-method-number">03</div>
+<h3>Field Measurement</h3>
+<p>
+Building monitoring, mobile environmental sensing,
+and urban-scale measurements.
+</p>
+</div>
+
+<div class="research-method">
+<div class="research-method-number">04</div>
+<h3>Data-driven Methods</h3>
+<p>
+Reduced-order modeling, machine learning,
+sparse sensing, and physics-informed prediction.
+</p>
+</div>
+
+</div>
+
+</div>
+
+
+<div class="research-collaboration-section">
 
 ## Collaboration
 
-We welcome collaborative research with **companies, universities, research institutes, and public organizations** in the fields of building and urban environmental engineering.
+We welcome collaborations with **companies, universities, research institutes, and public organizations** on building and urban environmental problems.
 
-Our laboratory combines **CFD, wind tunnel experiments, field measurements, environmental sensing, and data-driven modeling** to address both fundamental research questions and practical environmental problems.
+Our research combines **CFD, wind-tunnel experiments, field measurements, environmental sensing, and data-driven modeling**, allowing us to approach problems from both fundamental and practical perspectives.
 
-Potential areas of collaboration include:
+Potential areas of collaboration include building airflow and natural ventilation, urban microclimate, environmental measurement, building energy, environmental fluid mechanics, and data-driven prediction.
 
-- Building airflow and natural ventilation
-- Indoor and outdoor environmental assessment
-- Wind engineering and environmental fluid mechanics
-- Urban microclimate and environmental measurements
-- Building energy and environmental control
-- CFD validation and experimental studies
-- Data-driven prediction and environmental sensing
+We are also particularly interested in developing **international collaborative research in Southeast Asia** related to climate-responsive buildings, natural ventilation, urban microclimate, and building energy.
 
-For inquiries regarding collaborative research or technical consultation, please feel free to contact us.
+<div class="research-contact-link">
+  <a href="/profile/#contact" class="btn btn--primary">Contact →</a>
+</div>
 
-[**Contact →**](/profile/#contact)
+</div>
