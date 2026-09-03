@@ -56,6 +56,8 @@ author_profile: false
       学会
     {% elsif post.category == "research" %}
       研究
+    {% elsif post.category == "news" %}
+      お知らせ
     {% else %}
       {{ post.category }}
     {% endif %}
