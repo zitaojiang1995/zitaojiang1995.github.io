@@ -32,13 +32,14 @@ author_profile: true
 </p>
 
 <p>
-  〒XXX-XXXX 大阪府〇〇〇〇<br>
+  〒572-8508 大阪府寝屋川市池田中町17番8号<br>
+  12号館7階建築・都市環境ダイナミクスゼミ室
   摂南大学 寝屋川キャンパス
 </p>
 
 <div class="map-container">
   <iframe
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1277.3646604853257!2d135.61274688725396!3d34.77941206570852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60011def9daf542f%3A0x4941284b85814649!2z5pGC5Y2X5aSn5a2mIOWvneWxi-W3neOCreODo-ODs-ODkeOCuQ!5e1!3m2!1sja!2sjp!4v1788396256998!5m2!1sja!2sjp"
+    src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1638.5270752742663!2d135.61274688725396!3d34.77941206570852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60011def9daf542f%3A0x4941284b85814649!2z5pGC5Y2X5aSn5a2mIOWvneWxi-W3neOCreODo-ODs-ODkeOCuQ!5e0!3m2!1sja!2sjp!4v1788396522552!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>"
     width="100%"
     height="350"
     style="border:0;"
