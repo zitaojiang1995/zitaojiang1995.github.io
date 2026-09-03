@@ -7,8 +7,7 @@ author_profile: true
 
 ### 教員
 
-**蒋 子韜（Zitao Jiang）**  
-摂南大学
+[**蒋 子韜（しょう　ことう）** ](/jp/profile/)｜ 講師/Senior Lecturer, Ph.D.
 
 ### 学部生
 
