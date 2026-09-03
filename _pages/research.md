@@ -74,3 +74,23 @@ Methods include:
 - Field measurements
 - Mobile environmental sensing
 - UAV-based environmental measurements
+
+## Collaboration
+
+We welcome collaborative research with **companies, universities, research institutes, and public organizations** in the fields of building and urban environmental engineering.
+
+Our laboratory combines **CFD, wind tunnel experiments, field measurements, environmental sensing, and data-driven modeling** to address both fundamental research questions and practical environmental problems.
+
+Potential areas of collaboration include:
+
+- Building airflow and natural ventilation
+- Indoor and outdoor environmental assessment
+- Wind engineering and environmental fluid mechanics
+- Urban microclimate and environmental measurements
+- Building energy and environmental control
+- CFD validation and experimental studies
+- Data-driven prediction and environmental sensing
+
+For inquiries regarding collaborative research or technical consultation, please feel free to contact us.
+
+[**Contact →**](/profile/#contact)
