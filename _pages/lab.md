@@ -7,11 +7,8 @@ author_profile: true
 ## Members
 
 ### Faculty
-
-**Zitao Jiang**
-
-Building Environmental Engineering  
-Setsunan University
+[**Zitao JIANG**](/profile/) ｜ Lecturer, Ph.D.  
+Department of Living Environment Design, Faculty of Science and Engineering, Setsunan University
 
 ### Students
 
