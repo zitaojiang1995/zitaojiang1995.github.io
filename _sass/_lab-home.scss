@@ -128,3 +128,41 @@
 .page__content a:hover {
   color: #555;
 }
+
+/* =========================
+   Profile Page Typography
+   ========================= */
+
+/* Main page title */
+.page__content > h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: #222;
+  margin-bottom: 2.5rem;
+}
+
+/* Major sections */
+.page__content > h2 {
+  font-size: 1.65rem;
+  font-weight: 700;
+  color: #222;
+  margin-top: 3.5rem;
+  margin-bottom: 1.4rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* Subsections */
+.page__content > h3 {
+  font-size: 1.15rem;
+  font-weight: 650;
+  color: #58707a;
+  margin-top: 2rem;
+  margin-bottom: 0.9rem;
+}
+
+/* Body text */
+.page__content p,
+.page__content li {
+  line-height: 1.8;
+}
