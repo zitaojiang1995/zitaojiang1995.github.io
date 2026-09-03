@@ -5,17 +5,18 @@ main:
 
   - title: "Profile"
     url: /profile/
+    
   - title: "News"
     url: /news/
+    
+  - title: "Lab"
+    url: /lab/
     
   - title: "Research"
     url: /research/
 
   - title: "Publications"
     url: /publications/
-
-  - title: "Lab"
-    url: /lab/
 
   - title: "Teaching"
     url: /teaching/
@@ -29,18 +30,18 @@ jp:
 
   - title: "プロフィール"
     url: /jp/profile/
-
+    
   - title: "ニュース"
     url: /jp/news/
+    
+  - title: "研究室"
+    url: /jp/lab/
   
   - title: "研究"
     url: /jp/research/
 
   - title: "研究業績"
     url: /jp/publications/
-  
-  - title: "研究室"
-    url: /jp/lab/
 
   - title: "教育"
     url: /jp/teaching/
