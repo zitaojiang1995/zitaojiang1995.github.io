@@ -95,6 +95,11 @@ author_profile: true
   <p class="pub-journal">
     <em>Building and Environment</em>, 2025
   </p>
+
+  <div class="pub-links">
+    <a href="https://doi.org/10.1016/j.buildenv.2025.113673"
+       target="_blank" rel="noopener">DOI ↗</a>
+  </div>
 </div>
 
 
@@ -115,6 +120,11 @@ author_profile: true
   <p class="pub-journal">
     <em>Journal of Wind Engineering and Industrial Aerodynamics</em>, 2025
   </p>
+
+  <div class="pub-links">
+    <a href="10.1016/j.jweia.2025.106216"
+       target="_blank" rel="noopener">DOI ↗</a>
+  </div>
 </div>
 
 
@@ -136,6 +146,11 @@ author_profile: true
   <p class="pub-journal">
     <em>International Journal of Ventilation</em>, 2025
   </p>
+
+  <div class="pub-links">
+    <a href="https://doi.org/10.1080/14733315.2024.2419284"
+       target="_blank" rel="noopener">DOI ↗</a>
+  </div>
 </div>
 
 
@@ -160,6 +175,11 @@ author_profile: true
   <p class="pub-journal">
     <em>Building and Environment</em>, 2024
   </p>
+
+  <div class="pub-links">
+    <a href="https://doi.org/10.1016/j.buildenv.2024.111763"
+       target="_blank" rel="noopener">DOI ↗</a>
+  </div>
 </div>
 
 
@@ -207,6 +227,11 @@ author_profile: true
   <p class="pub-journal">
     <em>International Journal of Ventilation</em>, 2024
   </p>
+
+  <div class="pub-links">
+    <a href="https://doi.org/10.1080/14733315.2024.2319475"
+       target="_blank" rel="noopener">DOI ↗</a>
+  </div>
 </div>
 
 
@@ -230,6 +255,11 @@ author_profile: true
   <p class="pub-journal">
     <em>Building and Environment</em>, 2023
   </p>
+
+  <div class="pub-links">
+    <a href="https://doi.org/10.1016/j.buildenv.2023.110615"
+       target="_blank" rel="noopener">DOI ↗</a>
+  </div>
 </div>
 
 
@@ -276,6 +306,11 @@ author_profile: true
   <p class="pub-journal">
     <em>Building and Environment</em>, 2023
   </p>
+
+  <div class="pub-links">
+    <a href="https://doi.org/10.1016/j.buildenv.2023.110230"
+       target="_blank" rel="noopener">DOI ↗</a>
+  </div>
 </div>
 
 
@@ -299,6 +334,11 @@ author_profile: true
   <p class="pub-journal">
     <em>Building and Environment</em>, 2022
   </p>
+
+   <div class="pub-links">
+    <a href="https://doi.org/10.1016/j.buildenv.2022.109248"
+       target="_blank" rel="noopener">DOI ↗</a>
+  </div>
 </div>
 
 
