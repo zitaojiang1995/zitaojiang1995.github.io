@@ -49,8 +49,8 @@ author_profile: true
 大阪大学 [建築・都市環境デザイン学領域](https://www-arch.eng.osaka-u.ac.jp/~labo4/index-j.html)<br>
 受入教員: 小林 知広 教授
 
-**2026.04 - 現在<br>　
-[摂南大学](https://www.setsunan.ac.jp/) 理工学部　住環境デザイン学科　講師**
+**2026.04 - 現在**<br>
+**[摂南大学](https://www.setsunan.ac.jp/) 理工学部　住環境デザイン学科　講師**
 
 
 ## 研究の展開
@@ -103,3 +103,12 @@ POD、DeepONet、少数センサーによる空間分布の再構築、Physics-I
 - *International Journal of Ventilation*
 - *Indoor Air*
 - *Aerosol and Air Quality Research*
+
+## 趣味
+- 旅行
+- コーヒー巡り
+- 都市計画
+- 地図
+- カメラ
+- 徒歩
+- 街歩き
