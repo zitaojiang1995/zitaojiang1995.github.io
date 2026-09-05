@@ -4,41 +4,38 @@ title: ""
 excerpt: ""
 author_profile: false
 ---
-
 <div class="lab-hero lab-hero-photo">
 
   <div class="lab-hero-content">
 
     <div class="lab-hero-label">
-      BUILDING &amp; URBAN ENVIRONMENTAL DYNAMICS
+      建築・都市環境ダイナミクス
     </div>
 
     <h1>
-      Understanding environmental flows<br>
-      in buildings and cities
+      建築・都市をめぐる<br>
+      環境の流れを読み解く
     </h1>
 
     <p>
-      From fundamental flow phenomena to
-      climate-responsive built environments.
+      基礎的な流れの現象から、
+      気候に応答する建築・都市環境の創造へ。
     </p>
 
     <div class="lab-hero-buttons">
-      <a href="/research/" class="hero-btn">
-        Explore Our Research →
+      <a href="/jp/research/" class="hero-btn">
+        研究内容を見る →
       </a>
     </div>
 
   </div>
 
   <div class="hero-photo-caption">
-    Clouds above the mountains, Japan<br>
+    山頂から望む雲の流れ<br>
     <span>Photo by Zitao Jiang</span>
   </div>
 
 </div>
-
-<h2 class="section-title">最新ニュース</h2>
 
 <div class="news-list">
 
