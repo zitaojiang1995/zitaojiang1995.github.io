@@ -1,3 +1,12 @@
+/* =========================================================
+   LAB / HOMEPAGE
+   ========================================================= */
+
+
+/* =========================================================
+   Original Hero
+   ========================================================= */
+
 .lab-hero {
   padding: 4.5rem 3.5rem;
   margin-bottom: 4rem;
@@ -6,27 +15,29 @@
 }
 
 .lab-hero-label {
+  margin-bottom: 1.2rem;
+
   font-size: 0.75rem;
   font-weight: 700;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  margin-bottom: 1.2rem;
 }
 
 .lab-hero h1 {
+  margin: 0 0 0.8rem;
+
   font-size: 2.7rem;
   line-height: 1.15;
-  margin: 0 0 0.8rem;
 }
 
 .lab-hero-jp {
-  font-size: 1.25rem;
   margin-bottom: 1.8rem;
+  font-size: 1.25rem;
 }
 
 .lab-hero p {
-  font-size: 1.1rem;
   max-width: 650px;
+  font-size: 1.1rem;
 }
 
 .lab-hero-tags {
@@ -35,18 +46,32 @@
 
 .lab-hero-tags span {
   display: inline-block;
-  padding: 0.35rem 0.7rem;
+
   margin: 0.2rem;
+  padding: 0.35rem 0.7rem;
+
   border: 1px solid #aaa;
   border-radius: 20px;
+
   font-size: 0.75rem;
 }
+
+
+/* =========================================================
+   Section Titles
+   ========================================================= */
 
 .section-title {
   margin-top: 4rem;
   margin-bottom: 1.5rem;
+
   font-size: 1.7rem;
 }
+
+
+/* =========================================================
+   Research Cards
+   ========================================================= */
 
 .research-grid {
   display: grid;
@@ -56,15 +81,22 @@
 
 .research-card {
   display: block;
+
   padding: 2rem;
+
   border: 1px solid #ddd;
+
   text-decoration: none !important;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .research-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
 }
 
 .research-number {
@@ -77,12 +109,20 @@
   margin-top: 0.7rem;
 }
 
+
+/* =========================================================
+   News
+   ========================================================= */
+
 .news-item {
   display: grid;
   grid-template-columns: 100px 110px 1fr 25px;
   gap: 1rem;
+
   padding: 1rem 0;
+
   border-bottom: 1px solid #ddd;
+
   text-decoration: none !important;
 }
 
@@ -95,96 +135,97 @@
   font-weight: bold;
 }
 
-@media (max-width: 700px) {
-  .research-grid {
-    grid-template-columns: 1fr;
-  }
 
-  .lab-hero {
-    padding: 2.5rem 1.5rem;
-  }
+/* =========================================================
+   Homepage Links
+   ========================================================= */
 
-  .lab-hero h1 {
-    font-size: 2rem;
-  }
-
-  .news-item {
-    grid-template-columns: 85px 1fr 20px;
-  }
-
-  .news-category {
-    display: none;
-  }
-}
-/* Homepage links */
-.page__content a {
+.home-wide .page__content a {
   color: #222;
 }
 
-.page__content a:visited {
+.home-wide .page__content a:visited {
   color: #222;
 }
 
-.page__content a:hover {
+.home-wide .page__content a:hover {
   color: #555;
 }
 
-/* =========================
-   Profile Page Typography
-   ========================= */
 
-/* Main page title */
+/* =========================================================
+   General Content Typography
+   ========================================================= */
+
 .page__content > h1 {
+  margin-bottom: 2.5rem;
+
+  color: #222;
+
   font-size: 2.4rem;
   font-weight: 700;
-  color: #222;
-  margin-bottom: 2.5rem;
 }
 
-/* Major sections */
 .page__content > h2 {
-  font-size: 1.65rem;
-  font-weight: 700;
-  color: #222;
   margin-top: 3.5rem;
   margin-bottom: 1.4rem;
   padding-bottom: 0.5rem;
+
   border-bottom: 1px solid #e5e5e5;
+
+  color: #222;
+
+  font-size: 1.65rem;
+  font-weight: 700;
 }
 
-/* Subsections */
 .page__content > h3 {
-  font-size: 1.15rem;
-  font-weight: 650;
-  color: #58707a;
   margin-top: 2rem;
   margin-bottom: 0.9rem;
+
+  color: #58707a;
+
+  font-size: 1.15rem;
+  font-weight: 650;
 }
 
-/* Body text */
 .page__content p,
 .page__content li {
   line-height: 1.8;
 }
 
+
+/* =========================================================
+   Map
+   ========================================================= */
+
 .map-container {
+  width: 100%;
+
   margin-top: 1.5rem;
   margin-bottom: 2rem;
-  width: 100%;
 }
+
 .map-container iframe {
   display: block;
+
   width: 100%;
+
   border: 0;
   border-radius: 8px;
 }
 
-/* Collaboration */
+
+/* =========================================================
+   Collaboration
+   ========================================================= */
 
 .collaboration-section {
-  padding: 2.5rem 3rem;
   margin-bottom: 3rem;
+  padding: 2.5rem 3rem;
+
   background: #f5f7f7;
+
   border-left: 4px solid #58707a;
 }
 
@@ -195,14 +236,18 @@
 .collaboration-main h3 {
   margin-top: 0;
   margin-bottom: 1rem;
-  font-size: 1.3rem;
+
   color: #333;
+
+  font-size: 1.3rem;
 }
 
 .collaboration-main p {
   margin-bottom: 1.4rem;
-  line-height: 1.8;
+
   color: #555;
+
+  line-height: 1.8;
 }
 
 .collaboration-methods {
@@ -211,21 +256,28 @@
 
 .collaboration-methods span {
   display: inline-block;
-  padding: 0.35rem 0.7rem;
+
   margin: 0.2rem 0.25rem 0.2rem 0;
+  padding: 0.35rem 0.7rem;
+
   border: 1px solid #b8c2c5;
   border-radius: 20px;
+
+  background: #fff;
+
+  color: #465b63;
+
   font-size: 0.72rem;
   font-weight: 600;
-  color: #465b63;
-  background: #fff;
 }
 
 .collaboration-examples {
   margin-top: 1.3rem;
+
+  color: #666;
+
   font-size: 0.85rem;
   line-height: 1.7;
-  color: #666;
 }
 
 .collaboration-links {
@@ -236,29 +288,19 @@
   margin-right: 0.5rem;
 }
 
-@media (max-width: 700px) {
-  .collaboration-section {
-    padding: 1.8rem 1.4rem;
-  }
-}
 
 /* =========================================================
-   Photo Hero
+   PHOTO HERO
    ========================================================= */
 
 .lab-hero-photo {
   position: relative;
 
-  /* Break out from normal page width */
-  width: calc(100vw - 4rem);
-  max-width: 1400px;
-  min-height: 500px;
+  width: 100%;
+  max-width: none;
+  min-height: 520px;
 
-  margin-left: 50%;
-  margin-right: 0;
-  margin-bottom: 4rem;
-  transform: translateX(-50%);
-
+  margin: 0 0 4rem;
   padding: 0;
 
   display: flex;
@@ -268,67 +310,80 @@
     linear-gradient(
       90deg,
       rgba(10, 20, 30, 0.72) 0%,
-      rgba(10, 20, 30, 0.52) 35%,
-      rgba(10, 20, 30, 0.15) 65%,
-      rgba(10, 20, 30, 0.05) 100%
+      rgba(10, 20, 30, 0.50) 35%,
+      rgba(10, 20, 30, 0.12) 65%,
+      rgba(10, 20, 30, 0.02) 100%
     ),
     url("/images/hero-clouds.png");
 
   background-size: cover;
   background-position: center center;
+  background-repeat: no-repeat;
 
   border-left: 0;
+
   overflow: hidden;
 }
 
 
-/* Main text */
+/* Hero main text */
 
 .lab-hero-content {
   position: relative;
   z-index: 2;
 
+  width: 100%;
   max-width: 720px;
-  padding: 4rem 4rem;
+
+  padding: 4.5rem 4.5rem;
 
   color: #fff;
 }
 
 
+/* Hero label */
+
 .lab-hero-photo .lab-hero-label {
   margin-bottom: 1.4rem;
 
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255, 0.82);
 
   font-size: 0.72rem;
-  font-weight: 600;
+  font-weight: 700;
   letter-spacing: 0.16em;
 }
 
+
+/* Hero heading */
 
 .lab-hero-photo h1 {
   margin: 0 0 1.4rem;
 
   color: #fff;
 
-  font-size: 2.7rem;
-  line-height: 1.15;
+  font-size: 2.6rem;
+  line-height: 1.18;
   font-weight: 650;
 }
 
 
+/* Hero description */
+
 .lab-hero-photo p {
   max-width: 580px;
+
   margin-bottom: 2rem;
 
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 0.92);
 
-  font-size: 1.1rem;
-  line-height: 1.6;
+  font-size: 1.05rem;
+  line-height: 1.65;
 }
 
 
-/* Hero button */
+/* =========================================================
+   Hero Button
+   ========================================================= */
 
 .hero-btn {
   display: inline-block;
@@ -338,22 +393,27 @@
   border: 1px solid rgba(255, 255, 255, 0.8);
 
   color: #fff !important;
-  text-decoration: none !important;
 
   font-size: 0.85rem;
   font-weight: 600;
 
-  transition: all 0.2s ease;
-}
+  text-decoration: none !important;
 
+  transition:
+    background 0.2s ease,
+    color 0.2s ease;
+}
 
 .hero-btn:hover {
   background: #fff;
+
   color: #222 !important;
 }
 
 
-/* Photograph caption */
+/* =========================================================
+   Hero Photo Caption
+   ========================================================= */
 
 .hero-photo-caption {
   position: absolute;
@@ -369,30 +429,90 @@
   line-height: 1.5;
 }
 
-
 .hero-photo-caption span {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.62);
 }
 
 
-/* Mobile */
+/* =========================================================
+   WIDE HOMEPAGE LAYOUT
+   ========================================================= */
+
+@media (min-width: 1024px) {
+
+  /* Make the homepage wider than ordinary content pages */
+  .home-wide #main {
+    width: 100%;
+    max-width: 1500px;
+  }
+
+  /*
+     Override the old Academic Pages grid:
+     span(10 of 12), prefix and suffix.
+  */
+  .home-wide .page {
+    float: none;
+
+    width: 100%;
+
+    margin-left: 0;
+    margin-right: 0;
+
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .home-wide .page__inner-wrap {
+    width: 100%;
+  }
+
+  .home-wide .page__content {
+    width: 100%;
+  }
+
+}
+
+
+/* =========================================================
+   Mobile
+   ========================================================= */
 
 @media (max-width: 700px) {
 
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+
+
+  /* Standard hero */
+
+  .lab-hero {
+    padding: 2.5rem 1.5rem;
+  }
+
+  .lab-hero h1 {
+    font-size: 2rem;
+  }
+
+
+  /* Photo hero */
+
   .lab-hero-photo {
-    width: calc(100vw - 1.5rem);
-    max-width: none;
+    width: 100%;
     min-height: 500px;
 
     background-position: 58% center;
   }
 
   .lab-hero-content {
+    max-width: none;
+
     padding: 3.5rem 1.5rem;
   }
 
   .lab-hero-photo h1 {
-    font-size: 2.15rem;
+    font-size: 2.1rem;
+    line-height: 1.2;
   }
 
   .lab-hero-photo p {
@@ -404,5 +524,22 @@
     bottom: 1rem;
   }
 
-}
+
+  /* News */
+
+  .news-item {
+    grid-template-columns: 85px 1fr 20px;
+  }
+
+  .news-category {
+    display: none;
+  }
+
+
+  /* Collaboration */
+
+  .collaboration-section {
+    padding: 1.8rem 1.4rem;
+  }
+
 }
