@@ -112,7 +112,7 @@ POD、DeepONet、少数センサーによる空間分布の再構築、Physics-I
 - コーヒー巡り
 - 都市計画
 - 地図
-- カメラ
+- 撮影
 - 徒歩
 - 街歩き
 
@@ -121,7 +121,7 @@ POD、DeepONet、少数センサーによる空間分布の再構築、Physics-I
 ### 蒋 子韜　JIANG, Zitao
 
 [摂南大学](https://www.setsunan.ac.jp/) 理工学部 住環境デザイン学科　講師<br>
-大阪大学　招へい教員
+大阪大学　招へい教員<br>
 Email：zitao.jiang(at)setsunan.ac.jp
 
 〒572-8508　大阪府寝屋川市池田中町17番8号<br>
