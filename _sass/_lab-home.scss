@@ -86,6 +86,7 @@
 
   border: 1px solid #ddd;
 
+  color: #222 !important;
   text-decoration: none !important;
 
   transition:
@@ -93,7 +94,13 @@
     box-shadow 0.2s ease;
 }
 
+.research-card:visited {
+  color: #222 !important;
+}
+
 .research-card:hover {
+  color: #222 !important;
+
   transform: translateY(-4px);
 
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
@@ -107,6 +114,7 @@
 
 .research-card h3 {
   margin-top: 0.7rem;
+  color: inherit;
 }
 
 
@@ -123,7 +131,16 @@
 
   border-bottom: 1px solid #ddd;
 
+  color: #222 !important;
   text-decoration: none !important;
+}
+
+.news-item:visited {
+  color: #222 !important;
+}
+
+.news-item:hover {
+  color: #555 !important;
 }
 
 .news-date,
@@ -137,19 +154,18 @@
 
 
 /* =========================================================
-   Homepage Links
+   Homepage Other Links
    ========================================================= */
 
-.home-wide .page__content a {
-  color: #222;
+.section-more a,
+.section-more a:visited {
+  color: #222 !important;
+  text-decoration: none !important;
+  font-weight: 600;
 }
 
-.home-wide .page__content a:visited {
-  color: #222;
-}
-
-.home-wide .page__content a:hover {
-  color: #555;
+.section-more a:hover {
+  color: #555 !important;
 }
 
 
@@ -288,6 +304,15 @@
   margin-right: 0.5rem;
 }
 
+.collaboration-section a,
+.collaboration-section a:visited {
+  color: #222;
+}
+
+.collaboration-section a:hover {
+  color: #555;
+}
+
 
 /* =========================================================
    PHOTO HERO
@@ -296,11 +321,20 @@
 .lab-hero-photo {
   position: relative;
 
-  width: 100%;
-  max-width: none;
+  /*
+   * Break the hero out of the narrow Academic Pages
+   * content column.
+   */
+  width: calc(100vw - 3rem);
+  max-width: 1400px;
+
+  left: 50%;
+  transform: translateX(-50%);
+
   min-height: 520px;
 
-  margin: 0 0 4rem;
+  margin-top: 0;
+  margin-bottom: 4rem;
   padding: 0;
 
   display: flex;
@@ -326,7 +360,9 @@
 }
 
 
-/* Hero main text */
+/* =========================================================
+   Hero Main Text
+   ========================================================= */
 
 .lab-hero-content {
   position: relative;
@@ -335,13 +371,15 @@
   width: 100%;
   max-width: 720px;
 
-  padding: 4.5rem 4.5rem;
+  padding: 4.5rem;
 
   color: #fff;
 }
 
 
-/* Hero label */
+/* =========================================================
+   Hero Label
+   ========================================================= */
 
 .lab-hero-photo .lab-hero-label {
   margin-bottom: 1.4rem;
@@ -354,7 +392,9 @@
 }
 
 
-/* Hero heading */
+/* =========================================================
+   Hero Heading
+   ========================================================= */
 
 .lab-hero-photo h1 {
   margin: 0 0 1.4rem;
@@ -367,7 +407,9 @@
 }
 
 
-/* Hero description */
+/* =========================================================
+   Hero Description
+   ========================================================= */
 
 .lab-hero-photo p {
   max-width: 580px;
@@ -385,7 +427,8 @@
    Hero Button
    ========================================================= */
 
-.hero-btn {
+.hero-btn,
+.hero-btn:visited {
   display: inline-block;
 
   padding: 0.8rem 1.25rem;
@@ -432,41 +475,7 @@
 .hero-photo-caption span {
   color: rgba(255, 255, 255, 0.62);
 }
-/* =========================================================
-   WIDE HOMEPAGE LAYOUT
-   ========================================================= */
 
-@media (min-width: 1024px) {
-
-  .page.home-wide {
-    float: none !important;
-    width: 100% !important;
-
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-  }
-
-  .page.home-wide .page__inner-wrap,
-  .page.home-wide .page__content {
-    width: 100% !important;
-  }
-
-}
-
-
-/* Widen the outer main container only on the homepage */
-
-@media (min-width: 1280px) {
-
-  #main:has(.page.home-wide) {
-    width: 100% !important;
-    max-width: 1500px !important;
-  }
-
-}
 
 /* =========================================================
    Mobile
@@ -474,12 +483,14 @@
 
 @media (max-width: 700px) {
 
+  /* Research */
+
   .research-grid {
     grid-template-columns: 1fr;
   }
 
 
-  /* Standard hero */
+  /* Standard Hero */
 
   .lab-hero {
     padding: 2.5rem 1.5rem;
@@ -490,10 +501,15 @@
   }
 
 
-  /* Photo hero */
+  /* Photo Hero */
 
   .lab-hero-photo {
-    width: 100%;
+    width: calc(100vw - 1rem);
+    max-width: none;
+
+    left: 50%;
+    transform: translateX(-50%);
+
     min-height: 500px;
 
     background-position: 58% center;
