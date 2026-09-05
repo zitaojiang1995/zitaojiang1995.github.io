@@ -120,7 +120,7 @@ POD、DeepONet、少数センサーによる空間分布の再構築、Physics-I
 
 ### 蒋 子韜　JIANG, Zitao
 
-[摂南大学](https://www.setsunan.ac.jp/) 理工学部 住環境デザイン学科　講師<br>
+摂南大学 理工学部 住環境デザイン学科　講師<br>
 大阪大学　招へい教員<br>
 Email：zitao.jiang(at)setsunan.ac.jp
 
