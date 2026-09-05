@@ -121,7 +121,17 @@ a {
     outline: 0;
   }
 }
+/* Page content links */
 
+.page__content a:not(.btn):not(.hero-btn),
+.page__content a:not(.btn):not(.hero-btn):visited {
+  color: #222;
+}
+
+.page__content a:not(.btn):not(.hero-btn):hover,
+.page__content a:not(.btn):not(.hero-btn):active {
+  color: #555;
+}
 /* code */
 
 tt, code, kbd, samp, pre {
