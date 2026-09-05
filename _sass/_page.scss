@@ -399,3 +399,34 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+/* ==========================================================================
+   WIDE HOMEPAGE
+   ========================================================================== */
+
+body.home-wide {
+
+  #main {
+    @include breakpoint($large) {
+      width: 100%;
+      max-width: 1500px;
+    }
+  }
+
+  .page {
+    @include breakpoint($large) {
+      float: none;
+      width: 100%;
+
+      margin-left: 0;
+      margin-right: 0;
+
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+
+  .page__inner-wrap,
+  .page__content {
+    width: 100%;
+  }
+}
