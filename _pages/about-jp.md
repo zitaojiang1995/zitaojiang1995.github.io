@@ -5,38 +5,38 @@ excerpt: ""
 author_profile: false
 ---
 
-<div class="lab-hero">
+<div class="lab-hero lab-hero-photo">
 
-  <div class="lab-hero-label">
-    SETSUNAN UNIVERSITY · DEPARTMENT OF LIVING ENVIRONMENT DESIGN
+  <div class="lab-hero-content">
+
+    <div class="lab-hero-label">
+      BUILDING &amp; URBAN ENVIRONMENTAL DYNAMICS
+    </div>
+
+    <h1>
+      Understanding environmental flows<br>
+      in buildings and cities
+    </h1>
+
+    <p>
+      From fundamental flow phenomena to
+      climate-responsive built environments.
+    </p>
+
+    <div class="lab-hero-buttons">
+      <a href="/research/" class="hero-btn">
+        Explore Our Research →
+      </a>
+    </div>
+
   </div>
 
-  <h1>建築・都市環境<br>ダイナミクス研究室</h1>
-
-  <div class="lab-hero-jp">
-    Building & Urban Environmental Dynamics Laboratory
-  </div>
-
-  <p>
-    建築・都市空間における気流・温熱環境・環境性能を対象として、
-    実験・数値解析・計測・データ駆動型手法を組み合わせた研究を行っています。
-  </p>
-
-  <div class="lab-hero-tags">
-    <span>建築気流</span>
-    <span>自然換気</span>
-    <span>都市微気候</span>
-    <span>建築エネルギー</span>
-    <span>データ駆動型モデリング</span>
-  </div>
-
-  <div class="lab-hero-buttons">
-    <a href="/jp/research/" class="btn btn--primary">研究内容を見る</a>
-    <a href="/jp/lab/" class="btn">研究室紹介</a>
+  <div class="hero-photo-caption">
+    Clouds above the mountains, Japan<br>
+    <span>Photo by Zitao Jiang</span>
   </div>
 
 </div>
-
 
 <h2 class="section-title">最新ニュース</h2>
 
