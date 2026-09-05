@@ -314,7 +314,7 @@
       rgba(10, 20, 30, 0.12) 65%,
       rgba(10, 20, 30, 0.02) 100%
     ),
-    url("/images/hero-clouds.png");
+    url("/images/hero-clouds.jpg");
 
   background-size: cover;
   background-position: center center;
@@ -432,46 +432,41 @@
 .hero-photo-caption span {
   color: rgba(255, 255, 255, 0.62);
 }
-
-
 /* =========================================================
    WIDE HOMEPAGE LAYOUT
    ========================================================= */
 
 @media (min-width: 1024px) {
 
-  /* Make the homepage wider than ordinary content pages */
-  .home-wide #main {
-    width: 100%;
-    max-width: 1500px;
+  .page.home-wide {
+    float: none !important;
+    width: 100% !important;
+
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+
+    padding-left: 0 !important;
+    padding-right: 0 !important;
   }
 
-  /*
-     Override the old Academic Pages grid:
-     span(10 of 12), prefix and suffix.
-  */
-  .home-wide .page {
-    float: none;
-
-    width: 100%;
-
-    margin-left: 0;
-    margin-right: 0;
-
-    padding-left: 0;
-    padding-right: 0;
-  }
-
-  .home-wide .page__inner-wrap {
-    width: 100%;
-  }
-
-  .home-wide .page__content {
-    width: 100%;
+  .page.home-wide .page__inner-wrap,
+  .page.home-wide .page__content {
+    width: 100% !important;
   }
 
 }
 
+
+/* Widen the outer main container only on the homepage */
+
+@media (min-width: 1280px) {
+
+  #main:has(.page.home-wide) {
+    width: 100% !important;
+    max-width: 1500px !important;
+  }
+
+}
 
 /* =========================================================
    Mobile
