@@ -248,8 +248,17 @@
 
 .lab-hero-photo {
   position: relative;
-  min-height: 580px;
+
+  /* Break out from normal page width */
+  width: calc(100vw - 4rem);
+  max-width: 1400px;
+  min-height: 500px;
+
+  margin-left: 50%;
+  margin-right: 0;
   margin-bottom: 4rem;
+  transform: translateX(-50%);
+
   padding: 0;
 
   display: flex;
@@ -263,10 +272,11 @@
       rgba(10, 20, 30, 0.15) 65%,
       rgba(10, 20, 30, 0.05) 100%
     ),
-    url("/images/hero-clouds.jpg");
+    url("/images/hero-clouds.png");
 
   background-size: cover;
-  background-position: center;
+  background-position: center center;
+
   border-left: 0;
   overflow: hidden;
 }
@@ -279,7 +289,7 @@
   z-index: 2;
 
   max-width: 720px;
-  padding: 5rem 4rem;
+  padding: 4rem 4rem;
 
   color: #fff;
 }
@@ -288,7 +298,7 @@
 .lab-hero-photo .lab-hero-label {
   margin-bottom: 1.4rem;
 
-  color: rgba(255,255,255,0.8);
+  color: rgba(255, 255, 255, 0.8);
 
   font-size: 0.72rem;
   font-weight: 600;
@@ -301,7 +311,7 @@
 
   color: #fff;
 
-  font-size: 3rem;
+  font-size: 2.7rem;
   line-height: 1.15;
   font-weight: 650;
 }
@@ -309,10 +319,9 @@
 
 .lab-hero-photo p {
   max-width: 580px;
-
   margin-bottom: 2rem;
 
-  color: rgba(255,255,255,0.9);
+  color: rgba(255, 255, 255, 0.9);
 
   font-size: 1.1rem;
   line-height: 1.6;
@@ -326,7 +335,7 @@
 
   padding: 0.8rem 1.25rem;
 
-  border: 1px solid rgba(255,255,255,0.8);
+  border: 1px solid rgba(255, 255, 255, 0.8);
 
   color: #fff !important;
   text-decoration: none !important;
@@ -352,7 +361,7 @@
   right: 2rem;
   bottom: 1.5rem;
 
-  color: rgba(255,255,255,0.85);
+  color: rgba(255, 255, 255, 0.85);
 
   text-align: right;
 
@@ -362,7 +371,7 @@
 
 
 .hero-photo-caption span {
-  color: rgba(255,255,255,0.6);
+  color: rgba(255, 255, 255, 0.6);
 }
 
 
@@ -371,7 +380,9 @@
 @media (max-width: 700px) {
 
   .lab-hero-photo {
-    min-height: 520px;
+    width: calc(100vw - 1.5rem);
+    max-width: none;
+    min-height: 500px;
 
     background-position: 58% center;
   }
@@ -393,16 +404,5 @@
     bottom: 1rem;
   }
 
-  /* Make homepage hero wider than the normal content column */
-
-.lab-hero-photo {
-  width: calc(100vw - 4rem);
-  max-width: 1500px;
-
-  margin-left: 50%;
-  margin-right: 0;
-  transform: translateX(-50%);
-
-  min-height: 500px;
 }
 }
