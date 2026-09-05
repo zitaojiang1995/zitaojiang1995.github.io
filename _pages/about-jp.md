@@ -3,7 +3,8 @@ permalink: /jp/
 title: ""
 excerpt: ""
 author_profile: false
-classes: home-wide
+classes: 
+- home-wide
 ---
 <div class="lab-hero lab-hero-photo">
 
