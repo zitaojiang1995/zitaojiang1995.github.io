@@ -1,14 +1,10 @@
 ---
 title: "2026年度 日本建築学会大会（中国）で研究発表を行いました"
 date: 2026-09-09
-categories:
-  - news
-tags:
-  - conference
-  - AIJ
-permalink: /jp/news/aij2026/
+lang: jp
+category: news
+permalink: /jp/news/2026/aij2026/
 ---
-
 2026年9月8日〜11日に広島で開催された
 [2026年度 日本建築学会大会（中国）](https://taikai2026.aij.or.jp/)
 に参加しました。
