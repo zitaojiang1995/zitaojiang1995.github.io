@@ -42,7 +42,7 @@ author_profile: false
 <div class="news-list">
 
 {% assign japanese_posts = site.posts | where: "lang", "jp" %}
-{% for post in japanese_posts limit:4 %}
+{% for post in japanese_posts limit:5 %}
 
 <a class="news-item" href="{{ post.url }}">
   <span class="news-date">{{ post.date | date: "%Y.%m.%d" }}</span>
