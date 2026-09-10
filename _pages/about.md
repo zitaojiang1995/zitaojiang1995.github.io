@@ -40,9 +40,6 @@ redirect_from:
 
 </div>
 
-<h2 class="section-title">最新ニュース</h2>
-
-
 <h2 class="section-title">Latest News</h2>
 
 <div class="news-list">
