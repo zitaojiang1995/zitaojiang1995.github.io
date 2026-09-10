@@ -1,12 +1,9 @@
 ---
 title: "Presentation at the 2026 Annual Meeting of the Architectural Institute of Japan"
 date: 2026-09-09
-categories:
-  - news
-tags:
-  - conference
-  - AIJ
-permalink: /news/aij2026/
+lang: en
+category: news
+permalink: /news/2026/aij2026/
 ---
 
 We participated in the
