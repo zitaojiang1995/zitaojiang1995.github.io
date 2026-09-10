@@ -38,7 +38,8 @@ author_profile: false
 </div>
 
 <div class="news-list">
-## 最新ニュース
+<h2 class="section-title">最新ニュース</h2>
+
 {% assign japanese_posts = site.posts | where: "lang", "jp" %}
 {% for post in japanese_posts limit:4 %}
 
