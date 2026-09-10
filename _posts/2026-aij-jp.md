@@ -5,6 +5,7 @@ lang: jp
 category: news
 permalink: /jp/news/2026/aij2026/
 ---
+
 2026年9月8日〜11日に広島で開催された
 [2026年度 日本建築学会大会（中国）](https://taikai2026.aij.or.jp/)
 に参加しました。
