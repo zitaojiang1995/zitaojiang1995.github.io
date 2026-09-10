@@ -45,7 +45,7 @@ redirect_from:
 <div class="news-list">
 
 {% assign english_posts = site.posts | where: "lang", "en" %}
-{% for post in english_posts limit:4 %}
+{% for post in english_posts limit:5 %}
 
 <a class="news-item" href="{{ post.url }}">
   <span class="news-date">{{ post.date | date: "%Y.%m.%d" }}</span>
