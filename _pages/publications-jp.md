@@ -44,7 +44,7 @@ author_profile: true
   </p>
 
   <div class="pub-links">
-    <a href="[10.1016/j.aeolia.2026.101083](https://doi.org/10.1016/j.aeolia.2026.101083)"
+    <a href="https://doi.org/10.1016/j.aeolia.2026.101083"
        target="_blank" rel="noopener">DOI ↗</a>
   </div>
 </div>
