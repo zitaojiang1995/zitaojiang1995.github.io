@@ -40,7 +40,7 @@ author_profile: true
   </p>
 
   <p class="pub-journal">
-    <em>Aeolian Research, 77,101083, 2026
+    <em>Aeolian Research</em>, 77,101083, 2026
   </p>
 
   <div class="pub-links">
