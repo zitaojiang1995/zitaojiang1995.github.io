@@ -25,6 +25,25 @@ author_profile: true
 
 <h3 class="pub-year">2026</h3>
 
+  <h3 class="pub-title">
+    Coupled simulation of airflow and sand surface evolution around a bluff body: 
+    Dynamic-mesh CFD analysis with wind tunnel validation
+  </h3>
+
+  <p class="pub-authors">
+    <strong>Zitao Jiang</strong>, Jun Ikarashi, Yoshihide Tominaga
+  </p>
+
+  <p class="pub-journal">
+    <em>Aeolian Research, 77,101083, 2026
+  </p>
+
+  <div class="pub-links">
+    <a href="10.1016/j.aeolia.2026.101083"
+       target="_blank" rel="noopener">DOI ↗</a>
+  </div>
+</div>
+
 <div class="publication-card">
   <div class="pub-meta">
     <span class="pub-type">JOURNAL ARTICLE</span>
