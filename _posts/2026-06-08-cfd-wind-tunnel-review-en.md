@@ -1,6 +1,6 @@
 ---
-title: "Complementary Use of CFD Simulations and Wind Tunnel Tests in Wind Engineering"
-date: 2026-05-01
+title: "New Review Paper Published in <i>Journal of Wind Engineering and Industrial Aerodynamics</i>"
+date: 2026-06-08
 lang: en
 category: publication
 permalink: /news/2026/cfd-wind-tunnel-review/
