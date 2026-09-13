@@ -1,6 +1,6 @@
 ---
 title: "<i>Japan Architectural Review</i>に論文が掲載されました"
-date: 2026-08-09
+date: 2026-08-13
 lang: jp
 category: publication
 permalink: /jp/news/2026/pod-temperature-model/
