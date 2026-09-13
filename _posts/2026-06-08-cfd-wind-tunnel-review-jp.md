@@ -1,6 +1,6 @@
 ---
-title: "CFD解析と風洞実験の相補的活用に関するレビュー"
-date: 2026-05-01
+title: "<i>Journal of Wind Engineering and Industrial Aerodynamics</i>にレビュー論文が掲載されました"
+date: 2026-06-08
 lang: jp
 category: publication
 permalink: /jp/news/2026/cfd-wind-tunnel-review/
