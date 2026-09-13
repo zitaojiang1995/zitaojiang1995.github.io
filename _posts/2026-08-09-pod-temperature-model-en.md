@@ -1,5 +1,5 @@
 ---
-title: "POD-Based Reduced-Order Modeling of Indoor Temperature Fields"
+title: "New Paper Published in <i>Japan Architectural Review</i>"
 date: 2026-08-09
 lang: en
 category: publication
