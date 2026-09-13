@@ -1,5 +1,5 @@
 ---
-title: "*Aeolian Research*に論文が掲載されました"
+title: "<i>Aeolian Research</i>に論文が掲載されました"
 date: 2026-09-12
 lang: jp
 category: publication
