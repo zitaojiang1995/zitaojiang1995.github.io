@@ -1,5 +1,5 @@
 ---
-title: "PODを用いた室内温度場の低次元モデリング"
+title: "<i>Japan Architectural Review</i>に論文が掲載されました"
 date: 2026-08-09
 lang: jp
 category: publication
