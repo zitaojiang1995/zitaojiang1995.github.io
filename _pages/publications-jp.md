@@ -25,6 +25,11 @@ author_profile: true
 
 <h3 class="pub-year">2026</h3>
 
+<div class="publication-card">
+  <div class="pub-meta">
+    <span class="pub-type">JOURNAL ARTICLE</span>
+  </div>
+  
   <h3 class="pub-title">
     Coupled simulation of airflow and sand surface evolution around a bluff body: 
     Dynamic-mesh CFD analysis with wind tunnel validation
