@@ -1,5 +1,5 @@
 ---
-title: "Dynamic-Mesh CFD for Wind-Blown Sand"
+title: "New Paper Published in *Aeolian Research*"
 date: 2026-09-12
 lang: en
 category: publication
