@@ -1,5 +1,5 @@
 ---
-title: "飛砂による地表面変形を予測するDynamic Mesh CFDに関する論文が掲載されました"
+title: "*Aeolian Research*に論文が掲載されました"
 date: 2026-09-12
 lang: jp
 category: publication
