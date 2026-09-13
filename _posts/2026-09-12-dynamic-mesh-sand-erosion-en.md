@@ -1,5 +1,5 @@
 ---
-title: "New Paper Published in *Aeolian Research*"
+title: "New Paper Published in <i>Aeolian Research</i>"
 date: 2026-09-12
 lang: en
 category: publication
