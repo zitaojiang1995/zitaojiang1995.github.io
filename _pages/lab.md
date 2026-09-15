@@ -11,11 +11,7 @@ author_profile: true
 Department of Living Environment Design, Faculty of Science and Engineering, Setsunan University
 
 ### Students
-
-Student information will be added here.
-
----
-#### B4
+#### B4(Fourth year undergraduate students・3 People)
 
 | Name | Research Topic |
 |---|---|
@@ -23,9 +19,9 @@ Student information will be added here.
 | Shiyu CAO | Evaluation of Spatial Distributions of the Thermal Environment and Particulate Matter Concentrations in Urban Pedestrian Spaces Based on Mobile Measurements |
 | Io UCHIDA | Thermal Environment within the Natural Ventilation Void of a High-Rise Office Building |
 
-#### B3
+#### B3(Third year undergraduate students・9 People)
 | Name |
-| --- |
+|---|
 | Ryoseki KITERA |
 | Tomotaka KUSUMOTO |
 | Tomotaka KUSUMOTO |
