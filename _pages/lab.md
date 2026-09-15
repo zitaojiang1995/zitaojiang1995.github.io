@@ -19,9 +19,23 @@ Student information will be added here.
 
 | Name | Research Topic |
 |---|---|
-| SETA　Tsubasa | Effects of Natural Ventilation on the Indoor Environment of a Route Bus |
-| CAO　Shiyu | Evaluation of Spatial Distributions of the Thermal Environment and Particulate Matter Concentrations in Urban Pedestrian Spaces Based on Mobile Measurements |
-| UCHI　Io | Thermal Environment within the Natural Ventilation Void of a High-Rise Office Building |
+| Tsubasa SETA | Effects of Natural Ventilation on the Indoor Environment of a Route Bus |
+| Shiyu CAO | Evaluation of Spatial Distributions of the Thermal Environment and Particulate Matter Concentrations in Urban Pedestrian Spaces Based on Mobile Measurements |
+| Io UCHIDA | Thermal Environment within the Natural Ventilation Void of a High-Rise Office Building |
+
+#### B3
+| Name |
+| --- |
+| Ryoseki KITERA |
+| Tomotaka KUSUMOTO |
+| Tomotaka KUSUMOTO |
+| Seiru TAKEGAWA |
+| Masaki TATSUMI |
+| Masaki NAKAHORI |
+| Shinnosuke HARA |
+| Tomomitsu HARUSE |
+| Ryota MATSUSHITA |
+| Jotaro YAMAUCHI |
 
 #### Alumni
 
