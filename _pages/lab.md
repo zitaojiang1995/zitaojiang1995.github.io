@@ -24,7 +24,6 @@ Department of Living Environment Design, Faculty of Science and Engineering, Set
 |---|
 | Ryoseki KITERA |
 | Tomotaka KUSUMOTO |
-| Tomotaka KUSUMOTO |
 | Seiru TAKEGAWA |
 | Masaki TATSUMI |
 | Masaki NAKAHORI |
