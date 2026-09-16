@@ -20,6 +20,7 @@ Department of Living Environment Design, Faculty of Science and Engineering, Set
 | Io UCHIDA | Thermal Environment within the Natural Ventilation Void of a High-Rise Office Building |
 
 #### B3(Third year undergraduate students・9 People)
+
 | Name |
 |---|
 | Ryoseki KITERA |
