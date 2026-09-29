@@ -27,9 +27,9 @@ The students were able to see the wind tunnel, experimental models, measurement 
 
 We also visited the laboratories and were introduced to various experimental facilities and research activities in the field of architectural and urban environmental engineering.
 
-## Research Introductions by Osaka University Students
+## Research Introductions by The University of Osaka Students
 
-Students at Osaka University also kindly introduced their current research projects to us.
+Students at The University of Osaka also kindly introduced their current research projects to us.
 
 Our students had the opportunity to learn not only about their research topics, but also about how research questions are developed and how experimental and numerical approaches are used to investigate them.
 
@@ -41,6 +41,6 @@ Our third-year students are now beginning to think about their own undergraduate
 
 We hope that this visit will encourage them to consider **what they would like to investigate, what questions they would like to answer, and how they can approach their own research**.
 
-We also hope that they will take inspiration from the Osaka University students and work enthusiastically toward their own undergraduate research projects.
+We also hope that they will take inspiration from The University of Osaka students and work enthusiastically toward their own undergraduate research projects.
 
-Finally, we would like to express our sincere appreciation to the faculty members and students at Osaka University for warmly welcoming us and providing this valuable opportunity.
+Finally, we would like to express our sincere appreciation to the faculty members and students at The University of Osaka for warmly welcoming us and providing this valuable opportunity.
