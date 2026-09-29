@@ -13,7 +13,7 @@ permalink: /jp/news/2026/osaka-university-lab-visit/
        alt="大阪大学 建築・都市環境工学領域の見学"
        style="width: 100%; max-width: 900px; height: auto;">
   <figcaption style="margin-top: 8px;">
-    大阪大学 建築・都市環境工学領域での見学の様子
+    大阪大学 風洞施設での見学の様子
   </figcaption>
 </figure>
 
