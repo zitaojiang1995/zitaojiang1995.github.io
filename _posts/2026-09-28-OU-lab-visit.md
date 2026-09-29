@@ -9,7 +9,7 @@ permalink: /jp/news/2026/osaka-university-lab-visit/
 本日、研究室の3年生とともに、大阪大学の**建築・都市環境工学領域**を訪問し、風洞施設および実験室を見学しました。
 
 <figure style="text-align: center; margin: 24px 0;">
-  <img src="/images/news/2026_09_29_osaka-univ-visit.jpg"
+  <img src="/images/news/2026/2026_09_29_osaka-univ-visit.jpg"
        alt="大阪大学 建築・都市環境工学領域の見学"
        style="width: 100%; max-width: 900px; height: auto;">
   <figcaption style="margin-top: 8px;">
