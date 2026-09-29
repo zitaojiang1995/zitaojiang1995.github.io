@@ -13,7 +13,7 @@ Today, we visited the **Built Environmental Laboratory at The University of Osak
        alt="Visit to the Division of Architectural and Urban Environmental Engineering at The University of Osaka"
        style="width: 100%; max-width: 900px; height: auto;">
   <figcaption style="margin-top: 8px;">
-    Visit to the Division of Architectural and Urban Environmental Engineering at The University of Osaka
+    Visit to the Wind Tunnel Facility at The University of Osaka
   </figcaption>
 </figure>
 
