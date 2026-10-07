@@ -1,6 +1,6 @@
 ---
 title: "ニュース"
-permalink: /news/
+permalink: /jp/news/
 author_profile: true
 ---
 
