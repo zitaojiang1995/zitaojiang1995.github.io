@@ -4,19 +4,19 @@ permalink: /jp/news/
 author_profile: true
 ---
 
-# News
+# ニュース
 
-{% assign english_posts = site.posts | where: "lang", "jp" %}
+{% assign japanese_posts = site.posts | where: "lang", "jp" %}
 
 {% for post in japanese_posts %}
 
-### {{ post.date | date: "%Y.%m" }} | {{ post.category | capitalize }}
+### {{ post.date | date: "%Y.%m" }} | {{ post.category }}
 
-[**{{ post.title }}**]({{ post.url }})
+[**{{ post.title }}**]({{ post.url | relative_url }})
 
 {{ post.excerpt }}
 
-[続きを読む →]({{ post.url }})
+[続きを読む →]({{ post.url | relative_url }})
 
 ---
 
