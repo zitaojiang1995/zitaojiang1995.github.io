@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "ニュース"
 permalink: /news/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 
 {% assign english_posts = site.posts | where: "lang", "jp" %}
 
-{% for post in english_posts %}
+{% for post in japanese_posts %}
 
 ### {{ post.date | date: "%Y.%m" }} | {{ post.category | capitalize }}
 
@@ -16,7 +16,7 @@ author_profile: true
 
 {{ post.excerpt }}
 
-[Read more →]({{ post.url }})
+[続きを読む →]({{ post.url }})
 
 ---
 
