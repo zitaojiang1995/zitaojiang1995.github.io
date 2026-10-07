@@ -10,7 +10,7 @@ author_profile: true
 
 {% for post in japanese_posts %}
 
-### {{ post.date | date: "%Y.%m" }} | {{ post.category }}
+### {{ post.date | date: "%Y.%m" }} | {{ post.category | capitalize }}
 
 [**{{ post.title }}**]({{ post.url | relative_url }})
 
